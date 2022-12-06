@@ -63,6 +63,12 @@ Playlists em destaque: `Clean Code - Desvendando Livros`, `Tecnologias por trás
 Conteúdo sobre: Desenvolvimento de Software em Geral \
 Playlists em destaque: `Gestão`, `Introdução a Redes`, `Que curso devo fazer??`, `Sistemas Operacionais`, `Saga dos Teclados`, `Como Computadores Funcionam?`, `Entendendo Armazenamento`
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu9fwc9E-G17B2vMnbYzZBp_NYs4AmCE802y8x08=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FilipeDeschamps)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Filipe Deschamps**](https://www.youtube.com/@FilipeDeschamps) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Desenvolvimento de Software em Geral \
+Playlists em destaque: `Construção do tabnews.com.br`, `Como Criar Um Site (Grátis e Moderno)`, `Primeiro Jogo Multiplayer`, `4 robôs que criam vídeos no YouTube`
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
