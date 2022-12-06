@@ -18,42 +18,10 @@ Apenas adicione YouTubers que sejam realmente **awesome**! _"Afinal, é uma cura
 ## Adicione o YouTuber seguindo este formato
 
 ```html
-[
-<img
-  align="left"
-  height="94px"
-  width="94px"
-  alt="Avatar do canal"
-  src="LINK_PARA_O_AVATAR_DO_CANAL_DO_YOUTUBE"
-/>
-](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [
-<img
-  height="16px"
-  width="16px"
-  alt="Distintivo para YouTubers falantes de Português Brasileiro"
-  src="badges/badge-pt-br.svg"
-  title="Este Youtuber fala Português Brasileiro"
-/>
-](badges/README.md#youtubers-falantes-de-português-brasileiro)
-[**NOME_DO_CANAL**](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [
-<img
-  height="16px"
-  width="16px"
-  alt="Distintivo para canais do YouTube verificados"
-  src="badges/badge-verificado.svg"
-  title="É um canal do YouTube verificado"
-/>
-](badges/README.md#canal-do-youtube-verificado) [
-<img
-  height="16px"
-  width="16px"
-  alt="Distintivo para YouTubers que postam videos semanalmente"
-  src="badges/badge-semanal.svg"
-  title="Posta videos semanalmente"
-/>
-](badges/README.md#post-de-videos-semanais) \ Conteúdo sobre: EXEMPLO, EXEMPLO,
-EXEMPLO \ Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,
-`PLAYLIST 4`. \
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="LINK_PARA_O_AVATAR_DO_CANAL_DO_YOUTUBE"/>](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) 
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**NOME_DO_CANAL**](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado"/>](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \ 
+Conteúdo sobre: EXEMPLO, EXEMPLO, EXEMPLO \ 
+Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,`PLAYLIST 4`. \
 <br />
 ```
 

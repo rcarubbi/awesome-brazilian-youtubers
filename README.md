@@ -45,6 +45,12 @@ Para encontrar um tópico específico mais rápido, você pode pressionar `Ctrl 
 
 Existem muitas linguagens de programação no mercado. Nesta seção, você vai encontrar qualquer uma delas, incluindo Python, C, Java. Also, muitos YouTubers ensinam sobre frameworks destas linguagens. Não apenas linguagens de programação mas outros assuntos relacionados a programação também. Você pode encontrar tanto tutoriais práticos como teóricos.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoemVideo)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso em Vídeo**](https://www.youtube.com/@CursoemVideo) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
+Conteúdo sobre: Cursos de programação
+Playlists em destaque: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de Programação`, `Curso de PHP para Iniciantes`, `Curso de Photoshop CC`, `Curso de Banco de Dados MySQL`, `Curso de Python 3 - Mundo 1: Fundamentos`
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
@@ -94,6 +100,13 @@ Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Az
 ## Ciência da computação
 
 Os principais conceitos da ciência da computação podem ser encontrados aqui. Alguns canais ensinam sobre operações matemáticas, incluindo várias playlists com diferentes tópicos matemáticos. O mesmo acontece para tópicos de matemática e física altamente relacionados com computadores e harware. Perfeito se você quiser aprender sobre isto com mais profundidade.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/Q5BLjNAbbJbdoY4fWOL87-GKaqfvhh4tsEMb1K1DKsdrqHR9WgEANMPPDE0Rg-g6nAxHHeXe=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CortesdeMatematicaeFisica)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Cortes de Matemática e Física**](https://www.youtube.com/@CortesdeMatematicaeFisica) \
+Conteúdo sobre: Matemática \ Física
+Playlists em destaque: `Jorge Sá Martins`, `Renato Brito`, `Professor Octavio`, `Emanuel Carneiro`, `Eduardo Wagner`, `Luciano Castro`, `Ledo Vaccaro` \
+<br />
 
 [🔼 Voltar ao índice](#índice)
 
