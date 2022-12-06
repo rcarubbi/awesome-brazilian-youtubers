@@ -62,7 +62,8 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**BrazilJS**](https://www.youtube.com/@BrazilJS) \
 Conteúdo sobre: Javascript
-Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando`
+Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando` \
+<br/>
 
 ### Backend
 
