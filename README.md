@@ -75,6 +75,13 @@ Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Tempor
 Conteúdo sobre: .Net \ C# \ Flutter \ Angular
 Playlists em destaque: `MAUI`, `Injeção de Dependência`, `Clean Code`, `RavenDB`, `Descomplicando o C#`, `Arquitetura`, `Carreira`, `DevOps`, `GitHub`, `React`, `Azure`, `EF Core`, `Asp.net Core`.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/IEhKzdnrZm6_c5C5wtbPCifuoWu-SJEoSL3NDQc80KNMTGBNklE_puQlWw4QJm8Kvk43mmRR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CaffeineAlgorithm)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caffeine Algorithm**](https://www.youtube.com/@CaffeineAlgorithm) \
+Conteúdo sobre: C# \ Java \ Python \ Go
+Playlists em destaque: `Programar em Go`, `Programar em Java`, `Programar em Python`, `Programar em C#`, `Programar em C# (série antiga)`.\
+<br />
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
