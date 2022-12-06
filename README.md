@@ -46,7 +46,7 @@ Existem muitas linguagens de programação no mercado. Nesta seção, você vai 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-BKgsQupl6ppMQl1iEmw0KLkzZWh-EmdApGVGBtA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoArduino1)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-portugues-brasileiro) [**Curso Arduino**](https://www.youtube.com/@CursoArduino1) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso Arduino**](https://www.youtube.com/@CursoArduino1) \
 Conteúdo sobre: Arduino \
 Playlists em destaque: `Projeto Carro Robô Espião`, `Carro Robô`, `Robô Garra`, `Curso Arduino Programação`, `Curso Arduino Pró`.
 
@@ -62,7 +62,7 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-portugues-brasileiro) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
 Conteúdo sobre: .Net \ C#
 Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
 <br />
@@ -99,7 +99,7 @@ Atualmente, não podemos imaginar nossas vidas sem nossos smartphones e as pesso
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-m1YI5YrfRJdiT2SnCpEU_M0OrBibrxOJe742a4g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@AngeloBelchior)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-portugues-brasileiro) [**Angelo Belchior**](https://www.youtube.com/@AngeloBelchior) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Angelo Belchior**](https://www.youtube.com/@AngeloBelchior) \
 Conteúdo sobre: Cross-Platform / Xamarin / iOS / Android / C# \
 Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Forms`. \
 <br/>

@@ -34,7 +34,7 @@ Apenas adicione YouTubers que sejam realmente **awesome**! _"Afinal, é uma cura
   src="badges/badge-pt-br.svg"
   title="Este Youtuber fala Português Brasileiro"
 />
-](badges/README.md#youtubers-falantes-de-portugues-brasileiro)
+](badges/README.md#youtubers-falantes-de-português-brasileiro)
 [**NOME_DO_CANAL**](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [
 <img
   height="16px"
@@ -62,7 +62,7 @@ EXEMPLO \ Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal do GitHub" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de português" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português"/>](badges/README.md#youtubers-falantes-de-portugues-brasileiro) [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de português" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Código livre, Segurança, Desenvolvimento de Aplicativos \
 Playlists em destaque: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`.
 
