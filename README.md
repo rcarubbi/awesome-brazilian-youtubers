@@ -30,6 +30,7 @@ Para encontrar um tópico específico mais rápido, você pode pressionar `Ctrl 
 - [DevOps](#devops)
 - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
 - [Desenvolvimento Móvel](#desenvolvimento-móvel)
+- [Desenvolvimento Embarcado](#desenvolvimento-embarcado)
 - [Cyber-segurança](#cyber-segurança)
 - [Internet/redes](#internetredes)
 - [Software em geral](#software-em-geral)
@@ -43,12 +44,6 @@ Para encontrar um tópico específico mais rápido, você pode pressionar `Ctrl 
 ## Programação em geral
 
 Existem muitas linguagens de programação no mercado. Nesta seção, você vai encontrar qualquer uma delas, incluindo Python, C, Java. Also, muitos YouTubers ensinam sobre frameworks destas linguagens. Não apenas linguagens de programação mas outros assuntos relacionados a programação também. Você pode encontrar tanto tutoriais práticos como teóricos.
-
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-BKgsQupl6ppMQl1iEmw0KLkzZWh-EmdApGVGBtA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoArduino1)
-
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso Arduino**](https://www.youtube.com/@CursoArduino1) \
-Conteúdo sobre: Arduino \
-Playlists em destaque: `Projeto Carro Robô Espião`, `Carro Robô`, `Robô Garra`, `Curso Arduino Programação`, `Curso Arduino Pró`.
 
 [🔼 Voltar ao índice](#índice)
 
@@ -116,6 +111,24 @@ Atualmente, não podemos imaginar nossas vidas sem nossos smartphones e as pesso
 Conteúdo sobre: Cross-Platform / Xamarin / iOS / Android / C# \
 Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Forms`. \
 <br/>
+
+[🔼 Voltar ao índice](#índice)
+
+## Desenvolvimento Embarcado
+
+A área de sistemas embarcados compreende softwares criados especificamente para controlar determinados dispositivos microcontrolados. Nesta seção você irá encontrar tutoriais para o aprendizado de Arduino, Raspberry Pi, PIC, e outros microcontroladores.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-BKgsQupl6ppMQl1iEmw0KLkzZWh-EmdApGVGBtA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoArduino1)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso Arduino**](https://www.youtube.com/@CursoArduino1) \
+Conteúdo sobre: Arduino \
+Playlists em destaque: `Projeto Carro Robô Espião`, `Carro Robô`, `Robô Garra`, `Curso Arduino Programação`, `Curso Arduino Pró`.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-ngt8f9dM0GR96RTUP73qC2tfoRN4irler0_f66A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BrincandocomIdeias)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Brincando com Ideias**](https://www.youtube.com/@BrincandocomIdeias) \
+Conteúdo sobre: Arduino \ Internet das Coisas \ Raspberry Pi
+Playlists em destaque: `Temporada ESP32 - #MARATONA MAKER`, `Projetos com Arduino`, `Brinquedos Inteligentes com Arduino`, `Curso de Arduino para Iniciantes`, `Curso de Arduino`.
 
 [🔼 Voltar ao índice](#índice)
 
