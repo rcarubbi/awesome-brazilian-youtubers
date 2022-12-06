@@ -47,9 +47,15 @@ Existem muitas linguagens de programação no mercado. Nesta seção, você vai 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoemVideo)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso em Vídeo**](https://www.youtube.com/@CursoemVideo) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso em Vídeo**](https://www.youtube.com/@CursoemVideo) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Cursos de programação
 Playlists em destaque: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de Programação`, `Curso de PHP para Iniciantes`, `Curso de Photoshop CC`, `Curso de Banco de Dados MySQL`, `Curso de Python 3 - Mundo 1: Fundamentos`
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8lUVeJ1TiYevFOzZPNQFEQSDHc-TwiYKMcQpxpvA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@codigofontetv)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Código Fonte TV**](https://www.youtube.com/@codigofontetv) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Desenvolvimento de Software em Geral
+Playlists em destaque: `Clean Code - Desvendando Livros`, `Tecnologias por trás dos Games`, `Tech Hour 2022`, `O Que Programadores Fazem?`, `Compilado Podcast`
 
 [🔼 Voltar ao índice](#índice)
 
