@@ -57,6 +57,12 @@ Playlists em destaque: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de
 Conteúdo sobre: Desenvolvimento de Software em Geral \
 Playlists em destaque: `Clean Code - Desvendando Livros`, `Tecnologias por trás dos Games`, `Tech Hour 2022`, `O Que Programadores Fazem?`, `Compilado Podcast`
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu-rihMwxuXoZ2IjdwvfXegytnGVYquLdSBhRf5-ZOM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Akitando)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Fabio Akita**](https://www.youtube.com/@Akitando) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Desenvolvimento de Software em Geral \
+Playlists em destaque: `Gestão`, `Introdução a Redes`, `Que curso devo fazer??`, `Sistemas Operacionais`, `Saga dos Teclados`, `Como Computadores Funcionam?`, `Entendendo Armazenamento`
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
