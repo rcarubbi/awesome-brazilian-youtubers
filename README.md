@@ -82,6 +82,13 @@ Conteúdo sobre: C# \ Java \ Python \ Go
 Playlists em destaque: `Programar em Go`, `Programar em Java`, `Programar em Python`, `Programar em C#`, `Programar em C# (série antiga)`.\
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9QEhQMYEWq9xmNTwRFQNBjuQAN2xib2v1aPaYTRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CaffeineAlgorithm)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Canal dotNET**](https://www.youtube.com/@CaffeineAlgorithm) \
+Conteúdo sobre: C# \ .Net \ SQL Server \ RabbitMQ \ Azure
+Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Azure: novidades, dicas e truques para o dia a dia`, `RabbitMQ` \
+<br />
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
