@@ -111,8 +111,14 @@ Os principais conceitos da ciência da computação podem ser encontrados aqui. 
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Cortes de Matemática e Física**](https://www.youtube.com/@CortesdeMatematicaeFisica) \
 Conteúdo sobre: Matemática \ Física \
-Playlists em destaque: `Jorge Sá Martins`, `Renato Brito`, `Professor Octavio`, `Emanuel Carneiro`, `Eduardo Wagner`, `Luciano Castro`, `Ledo Vaccaro` \
-<br />
+Playlists em destaque: `Jorge Sá Martins`, `Renato Brito`, `Professor Octavio`, `Emanuel Carneiro`, `Eduardo Wagner`, `Luciano Castro`, `Ledo Vaccaro` 
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu80elr0SHKqkhGxvFHgEdNHzQryA2ek9OEc-T_nGA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EngenhariaReversa)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Engenharia Reversa**](https://www.youtube.com/@EngenhariaReversa) \
+Conteúdo sobre: Vídeos didáticos e profundos sobre assuntos complexos da ciência da computação. \
+Playlists em destaque: `Série Fundamentos` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
