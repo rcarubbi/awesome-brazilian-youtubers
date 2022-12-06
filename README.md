@@ -67,6 +67,12 @@ Conteúdo sobre: .Net \ C#
 Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**balta.io**](https://www.youtube.com/@aspnetcast) \
+Conteúdo sobre: .Net \ C# \ Flutter \ Angular
+Playlists em destaque: `MAUI`, `Injeção de Dependência`, `Clean Code`, `RavenDB`, `Descomplicando o C#`, `Arquitetura`, `Carreira`, `DevOps`, `GitHub`, `React`, `Azure`, `EF Core`, `Asp.net Core`.
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
