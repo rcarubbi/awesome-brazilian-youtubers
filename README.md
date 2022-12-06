@@ -64,7 +64,8 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-portugues) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
 Conteúdo sobre: .Net \ C#
-Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`.
+Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
+<br />
 
 [🔼 Voltar ao índice](#índice)
 
