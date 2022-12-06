@@ -58,6 +58,12 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 ### Frontend
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu_EP0nue9NNfA3I4Wwf-hw4p4FJIBqNvsaegcdB3Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BrazilJS)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**BrazilJS**](https://www.youtube.com/@BrazilJS) \
+Conteúdo sobre: Javascript
+Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando`
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
