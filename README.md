@@ -195,6 +195,12 @@ Playlists em destaque: `Temporada ESP32 - #MARATONA MAKER`, `Projetos com Arduin
 
 Segurança é algo com que todos nos deveriamos nos preocupar. Aprenda como se protejeer de ataques ou de software maliciosos. Aprenda também como os hacks são feitos para entender profundamente o que está acontecendo dentro deles, com tutoriais éticos de hackeamento.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_qbkvV99zpwzro7ATydOlLVcfXCbD9q0aTG9Qd=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@HardwareHacking)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Hardware Hacking**](https://www.youtube.com/@HardwareHacking) \
+Conteúdo sobre: Hacking \ Hardware \ Eletrônica \ Segurança \ IoT \
+Playlists em destaque: `Treinamento Hardware Hacking (chipwhisperer)`, `Bolsa Hacker`, `Hardware Cheats`, `Hardware Hacking`, `Ataques exóticos - hardware hacking`  
+
 [🔼 Voltar ao índice](#índice)
 
 ## Internet/redes
