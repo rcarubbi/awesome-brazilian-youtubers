@@ -48,13 +48,13 @@ Existem muitas linguagens de programação no mercado. Nesta seção, você vai 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoemVideo)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Curso em Vídeo**](https://www.youtube.com/@CursoemVideo) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
-Conteúdo sobre: Cursos de programação
+Conteúdo sobre: Cursos de programação \
 Playlists em destaque: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de Programação`, `Curso de PHP para Iniciantes`, `Curso de Photoshop CC`, `Curso de Banco de Dados MySQL`, `Curso de Python 3 - Mundo 1: Fundamentos`
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8lUVeJ1TiYevFOzZPNQFEQSDHc-TwiYKMcQpxpvA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@codigofontetv)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Código Fonte TV**](https://www.youtube.com/@codigofontetv) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
-Conteúdo sobre: Desenvolvimento de Software em Geral
+Conteúdo sobre: Desenvolvimento de Software em Geral \
 Playlists em destaque: `Clean Code - Desvendando Livros`, `Tecnologias por trás dos Games`, `Tech Hour 2022`, `O Que Programadores Fazem?`, `Compilado Podcast`
 
 [🔼 Voltar ao índice](#índice)
@@ -68,7 +68,7 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu_EP0nue9NNfA3I4Wwf-hw4p4FJIBqNvsaegcdB3Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BrazilJS)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**BrazilJS**](https://www.youtube.com/@BrazilJS) \
-Conteúdo sobre: Javascript
+Conteúdo sobre: Javascript \
 Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando` \
 <br/>
 
@@ -77,27 +77,27 @@ Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `Brazi
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
-Conteúdo sobre: .Net \ C#
+Conteúdo sobre: .Net \ C# \
 Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**balta.io**](https://www.youtube.com/@aspnetcast) \
-Conteúdo sobre: .Net \ C# \ Flutter \ Angular
+Conteúdo sobre: .Net \ C# \ Flutter \ Angular \
 Playlists em destaque: `MAUI`, `Injeção de Dependência`, `Clean Code`, `RavenDB`, `Descomplicando o C#`, `Arquitetura`, `Carreira`, `DevOps`, `GitHub`, `React`, `Azure`, `EF Core`, `Asp.net Core`.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/IEhKzdnrZm6_c5C5wtbPCifuoWu-SJEoSL3NDQc80KNMTGBNklE_puQlWw4QJm8Kvk43mmRR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CaffeineAlgorithm)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caffeine Algorithm**](https://www.youtube.com/@CaffeineAlgorithm) \
-Conteúdo sobre: C# \ Java \ Python \ Go
+Conteúdo sobre: C# \ Java \ Python \ Go \
 Playlists em destaque: `Programar em Go`, `Programar em Java`, `Programar em Python`, `Programar em C#`, `Programar em C# (série antiga)`.\
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9QEhQMYEWq9xmNTwRFQNBjuQAN2xib2v1aPaYTRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CanalDotNET)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Canal dotNET**](https://www.youtube.com/@CanalDotNET) \
-Conteúdo sobre: C# \ .Net \ SQL Server \ RabbitMQ \ Azure
+Conteúdo sobre: C# \ .Net \ SQL Server \ RabbitMQ \ Azure \
 Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Azure: novidades, dicas e truques para o dia a dia`, `RabbitMQ` \
 <br />
 
@@ -110,7 +110,7 @@ Os principais conceitos da ciência da computação podem ser encontrados aqui. 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/Q5BLjNAbbJbdoY4fWOL87-GKaqfvhh4tsEMb1K1DKsdrqHR9WgEANMPPDE0Rg-g6nAxHHeXe=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CortesdeMatematicaeFisica)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Cortes de Matemática e Física**](https://www.youtube.com/@CortesdeMatematicaeFisica) \
-Conteúdo sobre: Matemática \ Física
+Conteúdo sobre: Matemática \ Física \
 Playlists em destaque: `Jorge Sá Martins`, `Renato Brito`, `Professor Octavio`, `Emanuel Carneiro`, `Eduardo Wagner`, `Luciano Castro`, `Ledo Vaccaro` \
 <br />
 
@@ -160,7 +160,7 @@ Playlists em destaque: `Projeto Carro Robô Espião`, `Carro Robô`, `Robô Garr
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-ngt8f9dM0GR96RTUP73qC2tfoRN4irler0_f66A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BrincandocomIdeias)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Brincando com Ideias**](https://www.youtube.com/@BrincandocomIdeias) \
-Conteúdo sobre: Arduino \ Internet das Coisas \ Raspberry Pi
+Conteúdo sobre: Arduino \ Internet das Coisas \ Raspberry Pi \
 Playlists em destaque: `Temporada ESP32 - #MARATONA MAKER`, `Projetos com Arduino`, `Brinquedos Inteligentes com Arduino`, `Curso de Arduino para Iniciantes`, `Curso de Arduino`.
 
 [🔼 Voltar ao índice](#índice)
@@ -186,6 +186,12 @@ YouTubers listados nesta categoria podem não ser tutoriais de programação ou 
 ## Sistemas Operacionais
 
 Inclui vídeos e tutoriais para o correto gerenciamento e entendimento de Windows, Linux, Mac e outros sistemas operacionais. Aprenda sobre comandos úteis e configurações para manter seus sistema atualizado e seguro. Entenda como estes sistemas funcionam em detalhes para você controlá-los usando os melhores métodos.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/aypXJDLRC-q7U8nNFRIM07EozoAe1neU2F_hNsbMtuFp6XLHFscxhK73JG-mVbjz_YuABStM-60=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Diolinux)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Diolinux**](https://www.youtube.com/@Diolinux) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Sistemas Operacionais baseados em Linux \
+Playlists em destaque: `DioCast - O podcast do Diolinux`, `Curso de edição de áudio com Audacity para podcasts`, `Curso de modelagem 3D com Blender para iniciantes`, `Curso de Introdução ao Fedora`
 
 [🔼 Voltar ao índice](#índice)
 
