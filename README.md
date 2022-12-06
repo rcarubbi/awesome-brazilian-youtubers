@@ -60,6 +60,12 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 ### Backend
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-portugues) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
+Conteúdo sobre: .Net \ C#
+Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`.
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
