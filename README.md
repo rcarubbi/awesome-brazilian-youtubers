@@ -94,7 +94,8 @@ Atualmente, não podemos imaginar nossas vidas sem nossos smartphones e as pesso
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-portugues) [**Angelo Belchior**](https://www.youtube.com/@AngeloBelchior) \
 Conteúdo sobre: Cross-Platform / Xamarin / iOS / Android / C# \
-Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Forms`.
+Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Forms`. \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
