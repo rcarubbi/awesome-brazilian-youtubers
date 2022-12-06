@@ -87,9 +87,10 @@ Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `Brazi
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_kBIv2yTKGEYvHIaZwA8hoUu8ECazQThjt8zBQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FlipixChannel)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Flipix**](https://www.youtube.com/@FlipixChannel) \
-Conteúdo sobre: Javascript \ React
+Conteúdo sobre: Javascript \ React \
 Playlists em destaque: `React Router`, `Aprenda React na prática` \
 <br/>
+
 
 ### Backend
 
