@@ -319,6 +319,12 @@ Playlists em destaque: `Treinamento Hardware Hacking (chipwhisperer)`, `Bolsa Ha
 
 Conexão com a internet e redes é um vasto tópico, e é comum ficarmos enroscados quando estamos estudando sobre isto. Tenha playlists incríveis e vídeos sobre ambos software e hardware para entender como a conexão com a internet e redes funcionam. Como configurar um modem/roteador de maneira apropriada e o que são os IP's, DNS e mais.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/PMuU0-mVIZBC4e4balD6FAjGIIKWQVLrD-0TwHJLpmtbOm78FalRTTbOnjWNQZ64-jXcA2MN0Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@HardwareRedesBrasil)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Hardware Redes Brasil**](https://www.youtube.com/@HardwareRedesBrasil) \
+Conteúdo sobre: Redes \ Hardware \ Endereçamento IP \ 
+Playlists em destaque: `Cursos Fudamentos de Redes de Computadores e Internet`, `Aula de Hardware e Redes Prática - PPE`, `Aulas Práticas de Packet Tracer`  
+
 [🔼 Voltar ao índice](#índice)
 
 ## Software em geral
