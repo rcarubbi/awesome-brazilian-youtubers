@@ -122,6 +122,12 @@ Playlists em destaque: `Updates/Versões Angular`, `Mais Java`, `Visual Studio C
 Conteúdo sobre: HTML \ Javascript \ CSS \ React \
 Playlists em destaque: `Curso de Responsivo Feliz com HTML e CSS`, `Curso de JavaScript para React`, `Curso HTML e CSS feliz (Projeto Portfólio)`, `Curso de Fullstack com JavaScript`
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rocketseat)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Rocketseat**](https://www.youtube.com/@rocketseat) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: React \ Javascript \ React Native \ Node.js \ Elixir
+Playlists em destaque:  `Show me the code`, `Decode`, `Iniciando na programação`, `Videos 2022`, `Javascript`, `Node,js`, `React`, `React Native`, `Elixir` 
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
