@@ -196,6 +196,12 @@ Conteúdo sobre: Arduino \ Inteligência Artificial \
 Playlists em destaque: `Favoritos`\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8WUbXyyNB720Sm79eJuBxfAmuJa80cyAp1XJm0lw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LaboratoriodaJulia)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Laboratório da Julia**](https://www.youtube.com/@LaboratoriodaJulia) 
+Conteúdo sobre: Engenharia de Computação \ Projetos \ Eletrônica \
+Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas de Eletrônica`, `Maker` \
+
 [🔼 Voltar ao índice](#índice)
 
 ## Cyber-segurança
@@ -219,6 +225,12 @@ Conexão com a internet e redes é um vasto tópico, e é comum ficarmos enrosca
 ## Software em geral
 
 YouTubers listados nesta categoria podem não ser tutoriais de programação ou cartões de design legais, mas alguns outros software e aplicações úteis que são usados diariamente por todos. Domine esta suite que você usa extensivamente ou aprenda mais sobre serviços específicos que uma empresa provê à você.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/fqsyZzHxAtj8JcRMZg6K7HvJzAOycxNFc6lfhzNDi1788tvG4ilHAV5wpgCmAUKDYzPlDTGYGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@JornadaTop)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Jornada Top**](https://www.youtube.com/@JornadaTop) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Marketing Digital \ monetização com redes sociais \ programa de afiliados do Google, Facebook e Instagram  \
+Playlists em destaque: `Série - Colocando seu blog no Discover`, `Celular`, `Redes Sociais`, `Marketing Digital`
 
 [🔼 Voltar ao índice](#índice)
 
