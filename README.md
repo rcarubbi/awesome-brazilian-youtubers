@@ -128,6 +128,12 @@ Playlists em destaque: `Curso de Responsivo Feliz com HTML e CSS`, `Curso de Jav
 Conteúdo sobre: React \ Javascript \ React Native \ Node.js \ Elixir \
 Playlists em destaque:  `Show me the code`, `Decode`, `Iniciando na programação`, `Videos 2022`, `Javascript`, `Node,js`, `React`, `React Native`, `Elixir` 
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rafaellaballerini)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Rafaella Ballerini**](https://www.youtube.com/@rafaellaballerini) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
+Conteúdo sobre: CSS \ HTML5 \ Git \ GitHub \
+Playlists em destaque:  `Flexbox`, `Projetos práticos passo a passo`, `Organiação e produtividade + Notion`, `Eletrônicos`, `Git e GitHub`, `Front-end` 
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
