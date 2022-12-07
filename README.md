@@ -367,6 +367,13 @@ Tutoriais sobre criação de contúdo áudio e vídeo. Inclui vastos tópicos, c
 
 Processadores, placas-mãe, monitores, teclados, mouses, PC's/Notebooks e tudo sobre hardware. Modems e roteadores também podem ser encontrados aqui, bem como os mais novos celulares e outros dispositivos tecnológicos. Obtenha recomendações e comparações de preço x qualidade sobre estes produtos.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/80BW6g5aceNMXBTdeeO5p193DAUdwLPYWEQn8491sIJhMiMc4YMVYijqhazNsxI0BPLsDNA3x9I=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Adrenaline)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Adrenaline**](https://www.youtube.com/@Adrenaline) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Hardware \ Benchmarks \ 
+Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Dicas de Hardware`, `Guia de Compras`
+
+
 [🔼 Voltar ao índice](#índice)
 
 ## Programação Competitiva
