@@ -371,7 +371,8 @@ Processadores, placas-mãe, monitores, teclados, mouses, PC's/Notebooks e tudo s
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Adrenaline**](https://www.youtube.com/@Adrenaline) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Hardware \ Benchmarks \ 
-Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Dicas de Hardware`, `Guia de Compras`
+Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Dicas de Hardware`, `Guia de Compras` \
+<br/>
 
 
 [🔼 Voltar ao índice](#índice)
