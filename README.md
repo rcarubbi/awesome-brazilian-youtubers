@@ -381,6 +381,20 @@ Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Di
 
 A maioria dos processos de contratação das empresas envolvem desafios de códificação. Programação competitiva é como um esporte praticado na internet onde programadores competem entre si. A lista abaixo contém alguns dos canais que você pode seguir para otimizar suas habilidades em programação competitiva.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9Smy91FvciVrYzVA8Dfl9rxfM4nhznGP4-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@profedsonalves)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Edson Alves**](https://www.youtube.com/@profedsonalves) \
+Conteúdo sobre: Computação Competitiva \ Geometria Computacional \ Algorítmos 
+Playlists em destaque: `Aritmética`, `Computação Competitiva - Matemática`, `Paradigmas`, `Introdução a Programação Competitiva` \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu81aZV1qqq4QyrVYrqHB7Gnr7tgq9S2gpN734NR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@maratonaufmg2572)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Maratona UFMG**](https://www.youtube.com/@maratonaufmg2572) \
+Conteúdo sobre: Computação Competitiva \ Algorítmos 
+Playlists em destaque: `Tópicos Avançados em Programação Competitiva`, `Introdução a Programação Competitiva` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Life skills
