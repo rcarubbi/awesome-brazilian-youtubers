@@ -152,7 +152,13 @@ Playlists em destaque: `Jorge Sá Martins`, `Renato Brito`, `Professor Octavio`,
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Engenharia Reversa**](https://www.youtube.com/@EngenhariaReversa) \
 Conteúdo sobre: Vídeos didáticos e profundos sobre assuntos complexos da ciência da computação. \
-Playlists em destaque: `Série Fundamentos` \
+Playlists em destaque: `Série Fundamentos` 
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/xTg6NS4Mu4IWy6aTD0l3dIYTik50Tm2_oZZTYjLv5Bx4vh5l0-edjlL-lKnVIVOd2nmJwnbGpvM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MatematicaRio)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Matemática Rio com Prof. Rafael Procopio**](https://www.youtube.com/@MatematicaRio) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Matemática \
+Playlists em destaque: `Revisão Matemática ENEM 2022`, `ENEM 2022 - Questões de Matemática` \
 <br/>
 
 [🔼 Voltar ao índice](#índice)
