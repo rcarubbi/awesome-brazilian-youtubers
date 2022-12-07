@@ -391,8 +391,7 @@ A maioria dos processos de contratação das empresas envolvem desafios de códi
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Edson Alves**](https://www.youtube.com/@profedsonalves) \
 Conteúdo sobre: Computação Competitiva \ Geometria Computacional \ Algorítmos \
-Playlists em destaque: `Aritmética`, `Computação Competitiva - Matemática`, `Paradigmas`, `Introdução a Programação Competitiva` \
-<br/>
+Playlists em destaque: `Aritmética`, `Computação Competitiva - Matemática`, `Paradigmas`, `Introdução a Programação Competitiva` 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu81aZV1qqq4QyrVYrqHB7Gnr7tgq9S2gpN734NR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@maratonaufmg2572)
 
