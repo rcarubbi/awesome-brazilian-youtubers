@@ -189,6 +189,13 @@ Playlists em destaque: `Projeto Carro Robô Espião`, `Carro Robô`, `Robô Garr
 Conteúdo sobre: Arduino \ Internet das Coisas \ Raspberry Pi \
 Playlists em destaque: `Temporada ESP32 - #MARATONA MAKER`, `Projetos com Arduino`, `Brinquedos Inteligentes com Arduino`, `Curso de Arduino para Iniciantes`, `Curso de Arduino`.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu-EkjgJYSXussz90xJyp8rgCvtYYiE5nsQoaRwjyA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@IvanSeidel)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Ivan Seidel**](https://www.youtube.com/@IvanSeidel) \
+Conteúdo sobre: Arduino \ Inteligência Artificial \
+Playlists em destaque: `Favoritos`\
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Cyber-segurança
