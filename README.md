@@ -199,6 +199,13 @@ Playlists em destaque: `Revisão Matemática ENEM 2022`, `ENEM 2022 - Questões 
 Conteúdo sobre: Ciência de Dados \ Inteligência Artificial \
 Playlists em destaque: `Saga de um Cientista`, `Curso Básico de SQL para análise de dados`, `Tecnologia ou Magia`, `Curso de Deep Learning - Aprenda a construir redes neurais com PyTorch`  
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9ZwnwHt4DaY03iQD1mALpJKFPbMBiilsc1KRCV5g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@UniversoProgramado)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Universo Programado**](https://www.youtube.com/@UniversoProgramado) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
+Conteúdo sobre: Inteligência Artificial \
+Playlists em destaque: `Simulações Físicas`, `Algorìtmos "Buscadores de Caminho"`, `Inteligência Artificial Aprendendo!` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Machine learning
