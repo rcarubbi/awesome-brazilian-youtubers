@@ -115,8 +115,7 @@ Playlists em destaque: `Curso de Responsivo Feliz com HTML e CSS`, `Curso de Jav
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
 Conteúdo sobre: .Net \ C# \
-Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
-<br />
+Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. d
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
 
@@ -128,8 +127,7 @@ Playlists em destaque: `MAUI`, `Injeção de Dependência`, `Clean Code`, `Raven
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caffeine Algorithm**](https://www.youtube.com/@CaffeineAlgorithm) \
 Conteúdo sobre: C# \ Java \ Python \ Go \
-Playlists em destaque: `Programar em Go`, `Programar em Java`, `Programar em Python`, `Programar em C#`, `Programar em C# (série antiga)`.\
-<br />
+Playlists em destaque: `Programar em Go`, `Programar em Java`, `Programar em Python`, `Programar em C#`, `Programar em C# (série antiga)`.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9QEhQMYEWq9xmNTwRFQNBjuQAN2xib2v1aPaYTRw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CanalDotNET)
 
