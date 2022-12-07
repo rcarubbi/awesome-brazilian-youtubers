@@ -391,7 +391,7 @@ Playlists em destaque: `Aritmética`, `Computação Competitiva - Matemática`, 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu81aZV1qqq4QyrVYrqHB7Gnr7tgq9S2gpN734NR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@maratonaufmg2572)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Maratona UFMG**](https://www.youtube.com/@maratonaufmg2572) \
-Conteúdo sobre: Computação Competitiva \ Algorítmos \  
+Conteúdo sobre: Computação Competitiva \ Algorítmos \ 
 Playlists em destaque: `Tópicos Avançados em Programação Competitiva`, `Introdução a Programação Competitiva` \
 <br/>
 
