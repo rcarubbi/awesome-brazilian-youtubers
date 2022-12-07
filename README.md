@@ -83,6 +83,12 @@ Conteúdo sobre: Desemvolvimento Web \ Frontend \
 Playlists em destaque: `Curso Frontend`, `Programação para iniciantes` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8zAmF1BDo7p8K9xw_3tr0J8fEdWbbq64ykTRSTpg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Programadorbr)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Programador BR**](https://www.youtube.com/@Programadorbr) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Desenvolvimento de Software em Geral \
+Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e CSS`, `Tutorial Jogo da Velha` 
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
