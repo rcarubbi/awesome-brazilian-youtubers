@@ -76,6 +76,13 @@ Conteúdo sobre: Desemvolvimento Web \ Microserviços \
 Playlists em destaque: `Videocast Lambda3`, `Farol Lambda3`, `Brown Bags` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_hxjlM2l7LUr2PUJqDr0g1V9hH4QrbTmxBLY87=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@OUniversodaProgramacao)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**O Universo da Programação**](https://www.youtube.com/@OUniversodaProgramacao) \
+Conteúdo sobre: Desemvolvimento Web \ Frontend \
+Playlists em destaque: `Curso Frontend`, `Programação para iniciantes` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
