@@ -251,7 +251,7 @@ Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas d
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9KiuxqCcLG-67Npu25_W9ahpa5tRP4yGTfwikzVR4=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@graccula)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Renato Aloi**](https://www.youtube.com/@graccula) 
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Renato Aloi**](https://www.youtube.com/@graccula) \
 Conteúdo sobre: Arduino \ Automação \
 Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link`\
 <br/>
