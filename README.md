@@ -256,6 +256,13 @@ Conteúdo sobre: Arduino \ Automação \
 Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link`\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/jRkBp7Mpo0UX0y8EWAvJ5NyTNRJuQuuREtdPZl_nkhgae65VYT3oUeBFjGr1dmr-V6LwX3IK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@robocore)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**RoboCore**](https://www.youtube.com/@robocore) \
+Conteúdo sobre: Maker \ Automação \ Robótica \ IoT \
+Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` 
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Cyber-segurança
