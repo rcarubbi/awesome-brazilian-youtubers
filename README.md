@@ -164,7 +164,8 @@ Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`,
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Tiago Salem**](https://www.youtube.com/@TiagoSalem) \
 Conteúdo sobre: Blockchain \ Ethereum \ Solidity \ Smart contracts \ NFT's \
-Playlists em destaque: `Escovando Bits`, `Ethereum`, `O Nascimento de um endereço Bitcoin - Série` 
+Playlists em destaque: `Escovando Bits`, `Ethereum`, `O Nascimento de um endereço Bitcoin - Série` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
