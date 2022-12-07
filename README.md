@@ -282,6 +282,13 @@ Conteúdo sobre: Maker \ Automação \ Robótica \ IoT \
 Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` 
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu--x-zIWDaI-8QmrhJS3MQYQzyslgH2suCDEchh=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@canalwrkits)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**WR Kits**](https://www.youtube.com/@canalwrkits) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Engenharia Eletrônica \ Arduino \ Robótica \
+Playlists em destaque: `Matemática para Eletrônica`, `Telecomunicações`, `Eletrônica Básica`, `Microeletrônica`, `Osciladores` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Cyber-segurança
