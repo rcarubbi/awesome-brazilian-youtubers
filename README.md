@@ -231,6 +231,13 @@ Encontre YouTubers experientes em Deep Learning, Processamento de linguagem Natu
 
 DevOps é a combinação de desenvolvimento de software (software **dev**elopment) e Infraestrutura (IT **op**eration**s**). Esta lista contém alguns YouTubers que facilitam o aprendizado do tópico de DevOps. Os tópicos podem incluir Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9XgLoq9UAsZtsD_yhX0qb7eaG38ZnTlRC4uikr=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@caiodelgadonew)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caio Delgado**](https://www.youtube.com/@caiodelgadonew) \
+Conteúdo sobre: DevOps \ Docker \ Git \ Terraform \
+Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento de Jogos
