@@ -103,6 +103,12 @@ Playlists em destaque: `React Router`, `Aprenda React na prática` \
 Conteúdo sobre: Angular \ Javascript \ Java \
 Playlists em destaque: `Updates/Versões Angular`, `Mais Java`, `Visual Studio Code`, `CRUD Angular + Spring`, `Curso de Angular`, `Curso de Estrutura de Dados e Algorítmos Java` 
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/cyVxzC2XKJcwuluLAc_uAf_ABz9YJwFeoWf1HgjLJtGmdQV3i5Ie5f4PS3zn4u8iGRp0lh7U=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MarcoBrunoDev)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Marco Bruno**](https://www.youtube.com/@MarcoBrunoDev) \
+Conteúdo sobre: HTML \ Javascript \ CSS \ React \ 
+Playlists em destaque: `Curso de Responsivo Feliz com HTML e CSS`, `Curso de JavaScript para React`, `Curso HTML e CSS feliz (Projeto Portfólio)`, `Curso de Fullstack com JavaScript`
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8pcGX4rT88kEqyj8_2ATmcy6qPwqCqmKOqh58UGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aspnetcast)
