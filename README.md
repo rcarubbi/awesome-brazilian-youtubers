@@ -235,8 +235,7 @@ DevOps é a combinação de desenvolvimento de software (software **dev**elopmen
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caio Delgado**](https://www.youtube.com/@caiodelgadonew) \
 Conteúdo sobre: DevOps \ Docker \ Git \ Terraform \
-Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` \
-<br/>
+Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` 
 
 [🔼 Voltar ao índice](#índice)
 
