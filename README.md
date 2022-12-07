@@ -160,6 +160,12 @@ Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Az
 Conteúdo sobre: Python \
 Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`, `Gameplays de Programação` 
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-VTNfRrAyYy8CscOoznR2l_A6fvCHDrEh6Lbkl=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TiagoSalem)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Tiago Salem**](https://www.youtube.com/@TiagoSalem) \
+Conteúdo sobre: Blockchain \ Ethereum \ Solidity \ Smart contracts \ NFT's \
+Playlists em destaque: `Escovando Bits`, `Ethereum`, `O Nascimento de um endereço Bitcoin - Série` 
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
