@@ -167,6 +167,13 @@ Conteúdo sobre: Blockchain \ Ethereum \ Solidity \ Smart contracts \ NFT's \
 Playlists em destaque: `Escovando Bits`, `Ethereum`, `O Nascimento de um endereço Bitcoin - Série` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/BA6G838G6D8MLJcMw1JTkM6LMMJk-Xt1_NDygjsxjGWF2S-A3xb0OozHK6ygrkvDglBLb4iA1A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@desenvolvedorio)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**desenvolvedor.io**](https://www.youtube.com/@desenvolvedorio) \
+Conteúdo sobre: Asp.net \ c# \
+Playlists em destaque: `Segurança - Senhas`, `API's rest`, `Tutoriais`, `Dicas`, `Cursos` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
