@@ -9,8 +9,8 @@
   	</h1>
 	<br />
 	<div>
-		<a href="https://github.com/JoseDeFreitas/awesome-youtubers">
-			<img width="428" src="badges/logo.svg" alt="Awesome YouTubers logo">
+		<a href="https://github.com/rcarubbi/awesome-brazilian-youtubers">
+			<img width="428" src="badges/logo.svg" alt="Awesome Brazilian YouTubers logo">
 		</a>
 	</div>
 </div>
