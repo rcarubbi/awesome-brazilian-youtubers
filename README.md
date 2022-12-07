@@ -252,8 +252,7 @@ Playlists em destaque: `Favoritos`\
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Laboratório da Julia**](https://www.youtube.com/@LaboratoriodaJulia) \
 Conteúdo sobre: Engenharia de Computação \ Projetos \ Eletrônica \
-Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas de Eletrônica`, `Maker`\
-<br/>
+Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas de Eletrônica`, `Maker` 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9KiuxqCcLG-67Npu25_W9ahpa5tRP4yGTfwikzVR4=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@graccula)
 
