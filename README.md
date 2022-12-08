@@ -319,6 +319,20 @@ Segurança é algo com que todos nós deveríamos nos preocupar. Aprenda como se
 Conteúdo sobre: Hacking \ Hardware \ Eletrônica \ Segurança \ IoT \
 Playlists em destaque: `Treinamento Hardware Hacking (chipwhisperer)`, `Bolsa Hacker`, `Hardware Cheats`, `Hardware Hacking`, `Ataques exóticos - hardware hacking`  
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_VZK9EOyOmZ055m9E7Cqp_AVlw7j4ltNR4ID-P3g=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@mentebinaria)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Papo Binário**](https://www.youtube.com/@mentebinaria) \
+Conteúdo sobre: Análise de Malware \ Engenharia Reversa \ Exploração de Binários \ Programação \ Segurança \
+Playlists em destaque: `AMO - Análise de Malware Online`, `CEB - Curso de Exploração de Binários`, `CERO - Curso de Engenharia Reversa Online`, `Programação Moderna em C`.
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9uyYHAw-GnuZwgwY62296iqtGKoLeHt_ZPgymqJw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@h2hconference)
+
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**H2HC Conference**](https://www.youtube.com/@h2hconference) \
+Conteúdo sobre: Engenharia Reversa \ Hardware Hacking \ Pentest \ Pesquisa de Segurança \ Segurança \
+Playlists em destaque: `Hangouts and Others`. \
+<br />
+
+
 [🔼 Voltar ao índice](#índice)
 
 ## Internet/redes
