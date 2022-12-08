@@ -94,7 +94,7 @@ Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e 
 
 ## Desenvolvimento Web
 
-Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico (HTML, CSS e JavaScript) até os mais modernos frameworks (React.js, Vue.js, Angular). Também inclui tópicos de desenvolvimento backend, como Node.js, GraphQL, SQL e coisas mais básicas, como DNS, URLs, Deployment. Você também pode encontrar oportunidades de trabalho como desenvolvedor web e outras coisas relacionadas.
+Desenvolvimento web compreende desenvolvimento de frontend: desde o mais básico (HTML, CSS e JavaScript) até os mais modernos frameworks (React.js, Vue.js, Angular). Também inclui tópicos de desenvolvimento backend, como Node.js, GraphQL, SQL e coisas mais básicas, como DNS, URLs, e Deployment. Você também pode encontrar oportunidades de trabalho como desenvolvedor web e outras coisas relacionadas.
 
 ### Frontend
 
@@ -188,7 +188,7 @@ Playlists em destaque: `Segurança - Senhas`, `API's rest`, `Tutoriais`, `Dicas`
 
 ## Ciência da computação
 
-Os principais conceitos da ciência da computação podem ser encontrados aqui. Alguns canais ensinam sobre operações matemáticas, incluindo várias playlists com diferentes tópicos matemáticos. O mesmo acontece para tópicos de matemática e física altamente relacionados com computadores e harware. Perfeito se você quiser aprender sobre isto com mais profundidade.
+Os principais conceitos da ciência da computação podem ser encontrados aqui. Alguns canais ensinam sobre operações matemáticas, incluindo várias playlists com diferentes tópicos matemáticos. O mesmo acontece para tópicos de matemática e física altamente relacionados com computadores e hardware. Perfeito se você quiser aprender sobre isto com mais profundidade.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/Q5BLjNAbbJbdoY4fWOL87-GKaqfvhh4tsEMb1K1DKsdrqHR9WgEANMPPDE0Rg-g6nAxHHeXe=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CortesdeMatematicaeFisica)
 
@@ -227,13 +227,13 @@ Playlists em destaque: `Simulações Físicas`, `Algorìtmos "Buscadores de Cami
 
 ## Machine learning
 
-Encontre YouTubers experientes em Deep Learning, Processamento de linguagem Natural, Redes neurais e muitos outros tópicos relacionaods à esta vasta categoria. Uma coisa boa sobre Machine Learning é que ela pode ser aplicada usando diferentes linguagens de programação, e os conceitos fudamentais possuem a mesma estrutura para as diferentes linguagens.
+Encontre YouTubers experientes em Deep Learning, Processamento de linguagem natural, Redes neurais e muitos outros tópicos relacionados à esta vasta categoria. Uma coisa boa sobre Machine Learning é que ela pode ser aplicada usando diferentes linguagens de programação, e os conceitos fundamentais possuem a mesma estrutura para as diferentes linguagens.
 
 [🔼 Voltar ao índice](#índice)
 
 ## DevOps
 
-DevOps é a combinação de desenvolvimento de software (software **dev**elopment) e Infraestrutura (IT **op**eration**s**). Esta lista contém alguns YouTubers que facilitam o aprendizado do tópico de DevOps. Os tópicos podem incluir Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
+DevOps é a combinação de desenvolvimento de software (software **dev**elopment) e Infraestrutura (IT **op**eration**s**). Esta lista, contém alguns YouTubers que facilitam o aprendizado do tópico de DevOps. Os tópicos podem incluir Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9XgLoq9UAsZtsD_yhX0qb7eaG38ZnTlRC4uikr=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@caiodelgadonew)
 
@@ -246,7 +246,7 @@ Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA
 
 ## Desenvolvimento de Jogos
 
-Esté é um assunto vasto. Nesta seção você encontrará YouTubers que ensinam sobre programas de desenvolvimento de jogos (Unity, Unreal Engine, etc.), Conceitos fundamentais em diferentes linguagens de programação (JavaScript, HTML5, Java) e criação de arte/design, modelagem 3D e muito mais.
+Esté é um assunto vasto. Nesta seção você encontrará YouTubers que ensinam sobre plataformas de desenvolvimento de jogos (Unity, Unreal Engine, etc.), Conceitos fundamentais em diferentes linguagens de programação (JavaScript, HTML5, Java), criação de arte/design, modelagem 3D e muito mais.
 
 [🔼 Voltar ao índice](#índice)
 
@@ -370,7 +370,7 @@ Playlists em destaque: `Série - Colocando seu blog no Discover`, `Celular`, `Re
 
 ## Sistemas Operacionais
 
-Inclui vídeos e tutoriais para o correto gerenciamento e entendimento de Windows, Linux, Mac e outros sistemas operacionais. Aprenda sobre comandos úteis e configurações para manter seus sistema atualizado e seguro. Entenda como estes sistemas funcionam em detalhes para você controlá-los usando os melhores métodos.
+Inclui vídeos e tutoriais para o correto gerenciamento e entendimento de Windows, Linux, Mac e outros sistemas operacionais. Aprenda sobre comandos úteis e configurações para manter seu sistema atualizado e seguro. Entenda como estes sistemas funcionam em detalhes para você controlá-los usando os melhores métodos.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/aypXJDLRC-q7U8nNFRIM07EozoAe1neU2F_hNsbMtuFp6XLHFscxhK73JG-mVbjz_YuABStM-60=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Diolinux)
 
@@ -388,7 +388,7 @@ Os tutoriais de web designing estão listados na [seção de desenvolvimento web
 
 ## Áudio e vídeo
 
-Tutoriais sobre criação de contúdo áudio e vídeo. Inclui vastos tópicos, como design, animação, renderização, hardware e mais. Utilização do mais popular e melhor software para criar belíssimas animações em vídeo, canções bem produzidas e coisas relacionadas a estes tópicos.
+Tutoriais sobre criação de conteúdo em áudio e vídeo. Inclui vastos tópicos, como design, animação, renderização, hardware e mais. Utilização do mais popular e melhor software para criar belíssimas animações em vídeo, canções bem produzidas e coisas relacionadas a estes tópicos.
 
 [🔼 Voltar ao índice](#índice)
 
@@ -408,7 +408,7 @@ Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Di
 
 ## Programação Competitiva
 
-A maioria dos processos de contratação das empresas envolvem desafios de códificação. Programação competitiva é como um esporte praticado na internet onde programadores competem entre si. A lista abaixo contém alguns dos canais que você pode seguir para otimizar suas habilidades em programação competitiva.
+A maioria dos processos de contratação das empresas envolvem desafios de codificação. Programação competitiva é como um esporte praticado na internet onde programadores competem entre si. A lista abaixo contém alguns dos canais que você pode seguir para otimizar suas habilidades em programação competitiva.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9Smy91FvciVrYzVA8Dfl9rxfM4nhznGP4-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@profedsonalves)
 
