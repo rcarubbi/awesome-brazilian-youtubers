@@ -311,7 +311,7 @@ Playlists em destaque: `Matemática para Eletrônica`, `Telecomunicações`, `El
 
 ## Cyber-segurança
 
-Segurança é algo com que todos nos deveriamos nos preocupar. Aprenda como se protejeer de ataques ou de software maliciosos. Aprenda também como os hacks são feitos para entender profundamente o que está acontecendo dentro deles, com tutoriais éticos de hackeamento.
+Segurança é algo com que todos nós deveríamos nos preocupar. Aprenda como se proteger de ataques ou de softwares maliciosos. Aprenda também como os hacks são feitos para entender profundamente o que está acontecendo dentro deles, com tutoriais éticos de hackeamento.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_qbkvV99zpwzro7ATydOlLVcfXCbD9q0aTG9Qd=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@HardwareHacking)
 
