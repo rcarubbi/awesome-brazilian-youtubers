@@ -7,7 +7,7 @@ Apenas adicione YouTubers que sejam realmente **awesome**! _"Afinal, é uma cura
 <details>
   <summary>Guia para novos usuários do GitHub</summary>
   <ol>
-    <li>Va até o arquivo <a href="https://github.com/rcarubbi/awesome-brazilian-youtubers/blob/main/readme.md">readme.md</a> neste repositório.</li>
+    <li>Va até o arquivo <a href="https://github.com/rcarubbi/awesome-brazilian-youtubers/blob/main/README.md">readme.md</a> neste repositório.</li>
     <li>Clique no botão "editar" (com o ícone de um lápis).</li>
     <li>Adicione o novo YouTuber (seguindo o formato abaixo e no final da seção apropriada) e clique em "Commit".</li>
     <li>Clique no botão verde "Criar um pull request", preencha o template e clique no botão verde "Criar um pull request" novamente.</li>
