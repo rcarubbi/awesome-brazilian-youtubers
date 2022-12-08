@@ -43,7 +43,7 @@ Para encontrar um tópico específico mais rápido, você pode pressionar `Ctrl 
 
 ## Programação em geral
 
-Existem muitas linguagens de programação no mercado. Nesta seção, você vai encontrar qualquer uma delas, incluindo Python, C, Java. Also, muitos YouTubers ensinam sobre frameworks destas linguagens. Não apenas linguagens de programação mas outros assuntos relacionados a programação também. Você pode encontrar tanto tutoriais práticos como teóricos.
+Existem muitas linguagens de programação no mercado. Nesta seção, você vai encontrar muitas delas, incluindo Python, C, Java. Inclusive, muitos YouTubers ensinam sobre frameworks destas linguagens. Não apenas linguagens de programação mas outros assuntos relacionados a programação também. Você pode encontrar tanto tutoriais práticos como teóricos.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CursoemVideo)
 
