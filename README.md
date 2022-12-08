@@ -87,7 +87,8 @@ Playlists em destaque: `Curso Frontend`, `Programação para iniciantes` \
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Programador BR**](https://www.youtube.com/@Programadorbr) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Desenvolvimento de Software em Geral \
-Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e CSS`, `Tutorial Jogo da Velha` 
+Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e CSS`, `Tutorial Jogo da Velha` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
@@ -101,7 +102,8 @@ Desenvolviment web compreende desenvolvimento de frontend: desde o mais básico 
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**BrazilJS**](https://www.youtube.com/@BrazilJS) \
 Conteúdo sobre: Javascript \
-Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando` 
+Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_kBIv2yTKGEYvHIaZwA8hoUu8ECazQThjt8zBQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FlipixChannel)
 
@@ -140,7 +142,8 @@ Playlists em destaque:  `Flexbox`, `Projetos práticos passo a passo`, `Organia�
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
 Conteúdo sobre: .Net \ C# \
-Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. d
+Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
 
@@ -164,7 +167,8 @@ Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Az
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Programador Sagaz**](https://www.youtube.com/@ProgramadorSagaz) \
 Conteúdo sobre: Python \
-Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`, `Gameplays de Programação` 
+Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`, `Gameplays de Programação` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-VTNfRrAyYy8CscOoznR2l_A6fvCHDrEh6Lbkl=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TiagoSalem)
 
@@ -235,7 +239,8 @@ DevOps é a combinação de desenvolvimento de software (software **dev**elopmen
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Caio Delgado**](https://www.youtube.com/@caiodelgadonew) \
 Conteúdo sobre: DevOps \ Docker \ Git \ Terraform \
-Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` 
+Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
@@ -292,20 +297,22 @@ Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas d
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Renato Aloi**](https://www.youtube.com/@graccula) \
 Conteúdo sobre: Arduino \ Automação \
-Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link`
+Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/jRkBp7Mpo0UX0y8EWAvJ5NyTNRJuQuuREtdPZl_nkhgae65VYT3oUeBFjGr1dmr-V6LwX3IK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@robocore)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**RoboCore**](https://www.youtube.com/@robocore) \
 Conteúdo sobre: Maker \ Automação \ Robótica \ IoT \
-Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` 
+Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu--x-zIWDaI-8QmrhJS3MQYQzyslgH2suCDEchh=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@canalwrkits)
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**WR Kits**](https://www.youtube.com/@canalwrkits) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Engenharia Eletrônica \ Arduino \ Robótica \
-Playlists em destaque: `Matemática para Eletrônica`, `Telecomunicações`, `Eletrônica Básica`, `Microeletrônica`, `Osciladores`  
+Playlists em destaque: `Matemática para Eletrônica`, `Telecomunicações`, `Eletrônica Básica`, `Microeletrônica`, `Osciladores`  \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
@@ -343,7 +350,8 @@ Conexão com a internet e redes é um vasto tópico, e é comum ficarmos enrosca
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Hardware Redes Brasil**](https://www.youtube.com/@HardwareRedesBrasil) \
 Conteúdo sobre: Redes \ Hardware \ Endereçamento IP \ 
-Playlists em destaque: `Cursos Fudamentos de Redes de Computadores e Internet`, `Aula de Hardware e Redes Prática - PPE`, `Aulas Práticas de Packet Tracer`  
+Playlists em destaque: `Cursos Fudamentos de Redes de Computadores e Internet`, `Aula de Hardware e Redes Prática - PPE`, `Aulas Práticas de Packet Tracer`  \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
@@ -355,7 +363,8 @@ YouTubers listados nesta categoria podem não ser tutoriais de programação ou 
 
 [<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Jornada Top**](https://www.youtube.com/@JornadaTop) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Marketing Digital \ monetização com redes sociais \ programa de afiliados do Google, Facebook e Instagram  \
-Playlists em destaque: `Série - Colocando seu blog no Discover`, `Celular`, `Redes Sociais`, `Marketing Digital`
+Playlists em destaque: `Série - Colocando seu blog no Discover`, `Celular`, `Redes Sociais`, `Marketing Digital` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
