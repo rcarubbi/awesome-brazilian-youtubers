@@ -138,7 +138,7 @@ Playlists em destaque:  `Flexbox`, `Projetos práticos passo a passo`, `Organia�
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevSoutinho)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Mario Souto - Dev Soutinho**](https://www.youtube.com/@DevSoutinho) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \ 
+[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**Mario Souto - Dev Soutinho**](https://www.youtube.com/@DevSoutinho) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: CSS \ HTML5 \ JavaScript \ GitHub \ carreira \ Nextjs \ Vercel \ React \
 Playlists em destaque:  `Como Aprender NextJS`, `Dicas de programação`, `Como fazer um site ou blog com NextJS, SEO e Styled Componets` \
 <br/>
