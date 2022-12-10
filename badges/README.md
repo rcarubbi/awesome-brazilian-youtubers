@@ -19,9 +19,3 @@ Este distintivo é concedido aos YouTubers que tem um símbolo de verificado nos
 Este distintivo é concedido a YouTubers que postam pelo menos 1 vídeo por semana.
 
 <br/>
-
-<img align="left" width="90px" height="90px" alt="Distintivo para YouTubers falantes de português brasileiro" src="badge-pt-br.svg" title="Este YouTuber fala Português Brasileiro"/>
-
-#### YouTubers falantes de Português Brasileiro
-
-Este distintivo é concedido a YouTubers que fazem seus conteúdos em Português Brasileiro.

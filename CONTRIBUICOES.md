@@ -19,7 +19,8 @@ Apenas adicione YouTubers que sejam realmente **awesome**! _"Afinal, é uma cura
 
 ```html
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="LINK_PARA_O_AVATAR_DO_CANAL_DO_YOUTUBE"/>](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de Português Brasileiro" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português Brasileiro"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**NOME_DO_CANAL**](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado"/>](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \ 
+
+[**NOME_DO_CANAL**](LINK_A_PAGINA_PRINCIPAL_DO_CANAL) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado"/>](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \ 
 Conteúdo sobre: EXEMPLO, EXEMPLO, EXEMPLO \ 
 Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,`PLAYLIST 4`. \
 <br />
@@ -30,7 +31,7 @@ Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,`PLAYLIST 4`. \
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal do GitHub" src="https://yt3.ggpht.com/a/AATXAJzVBGU-QyENevFp8etYX1iEak8Y7KEjUPsucWAvAA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/github)
 
-[<img height="16px" width="16px" alt="Distintivo para YouTubers falantes de português" src="badges/badge-pt-br.svg" title="Este Youtuber fala Português"/>](badges/README.md#youtubers-falantes-de-português-brasileiro) [**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+[**GitHub**](https://www.youtube.com/user/github) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Código livre, Segurança, Desenvolvimento de Aplicativos \
 Playlists em destaque: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Public Roadmap`, `GitHub Artic Code Vault`.
 
@@ -39,7 +40,6 @@ Playlists em destaque: `Open Source Friday`, `GitHub Satellite 2020 - Work`, `Pu
 **Apenas edite as palavras que estão TOTALMENTE EM CAIXA ALTA. Deixe todas as outras coisas como estão. Considerações abaixo.**
 
 - No exemplo, você vê que dois distintivos foram adicionados (Distintivos de Canal do YouTube verificado e posts semanais). Se o canal não satisfizer um destes requerimentos, remova o distintivo. Mais informações no [arquivo de distintivos](badges/README.md).
-- Mude o indicador de idioma se o YouTuber falar outra língua. [Abra um chamado](https://github.com/rcarubbi/awesome-brazilian-youtubers/issues/new) se o idioma não estiver disponível no arquivo de distintivos.
 - Se a seção "Playlists em destaque" for mais curta do que 124 caracteres, adicione um símbolo `\` e uma tag `<br/>` na linha abaixo. Caso contrário, não adicione nada.
 - Preste atenção a todos os outros caracteres: pontos, vírgulas, asteríscos, etc.
 - Antes de abir um pull request, tenha certeza que o layout esteja correto.
