@@ -8,7 +8,7 @@ Distintivos são pequenos indicadores para te informar mais sobre um YouTuber es
 
 #### Canal do YouTube verificado
 
-Este distintivo é concedido aos YouTubers que tem um símbolo de verificado nos seus canais. Aprenda mais sobre canais do YouTube verificados [aqui](https://support.google.com/youtube/answer/3046484?hl=en).
+Este distintivo é concedido aos YouTubers que tem um símbolo de verificado nos seus canais. Aprenda mais sobre canais do YouTube verificados [aqui](https://support.google.com/youtube/answer/3046484?hl=pt).
 
 <br/>
 
