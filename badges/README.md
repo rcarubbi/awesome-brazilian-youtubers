@@ -25,27 +25,3 @@ Este distintivo é concedido a YouTubers que postam pelo menos 1 vídeo por sema
 #### YouTubers falantes de Português Brasileiro
 
 Este distintivo é concedido a YouTubers que fazem seus conteúdos em Português Brasileiro.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Distintivo para YouTubers falantes de Inglês" src="badge-en.svg" title="Este YouTuber fala Inglês"/>
-
-#### YouTubers falantes de Inglês
-
-Este distintivo é concedido a YouTubers que fazem seus conteúdos em Inglês.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Distintivo para YouTubers falantes de Francês" src="badge-fr.svg" title="Este YouTuber fala Francês"/>
-
-#### YouTubers falantes de Francês
-
-Este distintivo é concedido a YouTubers que fazem seus conteúdos em Francês.
-
-<br/>
-
-<img align="left" width="90px" height="90px" alt="Distintivo para YouTubers falantes de Espanhol" src="badge-es.svg" title="Este YouTuber fala Espanhol"/>
-
-#### YouTubers falantes de Espanhol
-
-Este distintivo é concedido a YouTubers que fazem seus conteúdos em Espanhol.
