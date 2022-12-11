@@ -154,8 +154,7 @@ Playlists em destaque:  `Como Aprender NextJS`, `Dicas de programação`, `Como 
 
 [**asp.net{cast}**](https://www.youtube.com/@aspnetcast) \
 Conteúdo sobre: .Net \ C# \
-Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`. \
-<br/>
+Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`.  
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
 
