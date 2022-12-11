@@ -1,9 +1,9 @@
-# Código de Conduta de pacto do contribuidor
+# Código de Conduta de pacto do contribuinte
 
 ## Nosso Compromisso
 
 No interesse de promover um ambiente aberto e acolhedor, nós como
-contribuidores e mantenedores comprometemo-nos a tornar a participação em nosso projeto e
+contribuintes e mantenedores comprometemo-nos a tornar a participação em nosso projeto e
 nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, corpo tamanho, deficiência, etnia, características sexuais, identidade e expressão de gênero,
 nível de experiência, educação, status socioeconômico, nacionalidade,
 aparência, raça, religião ou identidade e orientação sexual.

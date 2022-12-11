@@ -1,6 +1,6 @@
 # Diretrizes de contribuição
 
-Por favor siga o [código de conduta](https://github.com/rcarubbi/awesome-brazilian-youtubers/blob/main/CODIGO_DE_CONDUTA.md).
+Por favor siga o [código de conduta](https://github.com/rcarubbi/awesome-brazilian-youtubers/blob/main/CODE_OF_CONDUCT.md).
 
 Apenas adicione YouTubers que sejam realmente **awesome**! _"Afinal, é uma curadoria, não uma coleção"_. [O que é awesome?](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)
 
