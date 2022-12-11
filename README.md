@@ -327,8 +327,7 @@ Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espi�
 
 [**RoboCore**](https://www.youtube.com/@robocore) \
 Conteúdo sobre: Maker \ Automação \ Robótica \ IoT \
-Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` \
-<br/>
+Playlists em destaque: `RCX 2022 - Soccer 2D`, `Robocore 2022`, `Batalha de Robôs`, `Plataformas de IoT` 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu--x-zIWDaI-8QmrhJS3MQYQzyslgH2suCDEchh=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@canalwrkits)
 
