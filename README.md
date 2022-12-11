@@ -22,6 +22,7 @@
 Este repositório apenas lista awesome YouTubers que falam português brasileiro. Awesome contribuidores criaram suas próprias listas de awesome YouTubers de tecnologia em outros idiomas. **Abaixo você pode ver todos os repositórios listados.** Se você acha que tem awesome YouTubers em um idioma específico e você tem pelo menos alguns deles, você pode criar sua própria lista a nos informar [abrindo um chamado no repositório principal em inglês](https://github.com/JoseDeFreitas/awesome-youtubers/issues/new).
 
 -   [Inglês](https://github.com/JoseDeFreitas/awesome-youtubers)
+-   [Espanhol](https://github.com/rcarubbi/awesome-spanish-youtubers)
 
 ## Índice
 
