@@ -196,6 +196,22 @@ Conteúdo sobre: Asp.net \ c# \
 Playlists em destaque: `Segurança - Senhas`, `API's rest`, `Tutoriais`, `Dicas`, `Cursos` \
 <br/>
 
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu8Jr4riz7LSVt5paQSbEfzuK-pfb2xFbMYEdZV4=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@85bitsdeveloper)
+
+[**85 bits (developer)**](https://www.youtube.com/@85bitsdeveloper) \
+Conteúdo sobre: Python \ PHP \
+Playlists em destaque: `CURSO PROGRAMAÇÃO PARA ADVOGADOS (PYTHON)`, `DESIGN PATTERNS PHP GOF + S.O.L.I.D.`, `PHP PDO - Completo`, `CURSO COMPLETO DE PHP` \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu80uCPVzFFElk5dDtwUsxlT1Oh3yKmMHpVn_2Yn=s48-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevDojoBrasil)
+
+[**DevDojo**](https://www.youtube.com/@DevDojoBrasil) \
+Conteúdo sobre: Java \ Bancos de dados \
+Playlists em destaque: `RabbitMQ Direto Ao Ponto`, `Banco de Dados Boladão`, `Maratona Java Virado no Jiraya`, `Spring Boot Essentials 2` \
+<br/>
+
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
