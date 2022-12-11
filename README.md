@@ -107,8 +107,7 @@ Desenvolvimento web compreende desenvolvimento de frontend: desde o mais básico
 
 [**BrazilJS**](https://www.youtube.com/@BrazilJS) \
 Conteúdo sobre: Javascript \
-Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando` \
-<br/>
+Playlists em destaque: `BrazilJS Conf 2021`, `Pop`, `BrazilJS.live 2020`, `BrazilJS Entrevista`, `Gupy + BrazilJS`, `Debugando`  
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_kBIv2yTKGEYvHIaZwA8hoUu8ECazQThjt8zBQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FlipixChannel)
 
