@@ -201,8 +201,7 @@ Playlists em destaque: `Segurança - Senhas`, `API's rest`, `Tutoriais`, `Dicas`
 
 [**85 bits (developer)**](https://www.youtube.com/@85bitsdeveloper) \
 Conteúdo sobre: Python \ PHP \
-Playlists em destaque: `CURSO PROGRAMAÇÃO PARA ADVOGADOS (PYTHON)`, `DESIGN PATTERNS PHP GOF + S.O.L.I.D.`, `PHP PDO - Completo`, `CURSO COMPLETO DE PHP` \
-<br/>
+Playlists em destaque: `CURSO PROGRAMAÇÃO PARA ADVOGADOS (PYTHON)`, `DESIGN PATTERNS PHP GOF + S.O.L.I.D.`, `PHP PDO - Completo`, `CURSO COMPLETO DE PHP`  
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu80uCPVzFFElk5dDtwUsxlT1Oh3yKmMHpVn_2Yn=s48-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevDojoBrasil)
 
