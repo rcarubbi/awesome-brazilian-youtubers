@@ -321,8 +321,7 @@ Playlists em destaque: `LabCast`, `O ROBÔ DANÇARINO`, `Eletroblocks`, `Aulas d
 
 [**Renato Aloi**](https://www.youtube.com/@graccula) \
 Conteúdo sobre: Arduino \ Automação \
-Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link` \
-<br/>
+Playlists em destaque: `Curso Arduino`, `Confecção de PCB`, `Robô Carro Espião`, `Automação`, `Serial Link` 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/jRkBp7Mpo0UX0y8EWAvJ5NyTNRJuQuuREtdPZl_nkhgae65VYT3oUeBFjGr1dmr-V6LwX3IK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@robocore)
 
