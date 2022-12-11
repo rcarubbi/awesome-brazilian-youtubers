@@ -179,8 +179,7 @@ Playlists em destaque: `Do Xamarin.Forms ao MAUI: show me the code!`, `.NET + Az
 
 [**Programador Sagaz**](https://www.youtube.com/@ProgramadorSagaz) \
 Conteúdo sobre: Python \
-Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`, `Gameplays de Programação` \
-<br/>
+Playlists em destaque: `Python Iniciante`, `Codando Todo Dia`, `Sagaz Responde`, `Gameplays de Programação` 
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu-VTNfRrAyYy8CscOoznR2l_A6fvCHDrEh6Lbkl=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TiagoSalem)
 
