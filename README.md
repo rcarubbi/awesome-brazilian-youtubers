@@ -240,18 +240,18 @@ Playlists em destaque: `Revisão Matemática ENEM 2022`, `ENEM 2022 - Questões 
 Conteúdo sobre: Ciência de Dados \ Inteligência Artificial \
 Playlists em destaque: `Saga de um Cientista`, `Curso Básico de SQL para análise de dados`, `Tecnologia ou Magia`, `Curso de Deep Learning - Aprenda a construir redes neurais com PyTorch`  
 
+[🔼 Voltar ao índice](#índice)
+
+## Machine learning
+
+Encontre YouTubers experientes em Deep Learning, Processamento de linguagem natural, Redes neurais e muitos outros tópicos relacionados à esta vasta categoria. Uma coisa boa sobre Machine Learning é que ela pode ser aplicada usando diferentes linguagens de programação, e os conceitos fundamentais possuem a mesma estrutura para as diferentes linguagens.
+
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu9ZwnwHt4DaY03iQD1mALpJKFPbMBiilsc1KRCV5g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@UniversoProgramado)
 
 [**Universo Programado**](https://www.youtube.com/@UniversoProgramado) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
 Conteúdo sobre: Inteligência Artificial \
 Playlists em destaque: `Simulações Físicas`, `Algorìtmos "Buscadores de Caminho"`, `Inteligência Artificial Aprendendo!` \
 <br/>
-
-[🔼 Voltar ao índice](#índice)
-
-## Machine learning
-
-Encontre YouTubers experientes em Deep Learning, Processamento de linguagem natural, Redes neurais e muitos outros tópicos relacionados à esta vasta categoria. Uma coisa boa sobre Machine Learning é que ela pode ser aplicada usando diferentes linguagens de programação, e os conceitos fundamentais possuem a mesma estrutura para as diferentes linguagens.
 
 [🔼 Voltar ao índice](#índice)
 
