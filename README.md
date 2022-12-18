@@ -207,6 +207,16 @@ Conteúdo sobre: Java \ Bancos de dados \
 Playlists em destaque: `RabbitMQ Direto Ao Ponto`, `Banco de Dados Boladão`, `Maratona Java Virado no Jiraya`, `Spring Boot Essentials 2` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/EP4HtvEeMu0Fu4ZX2rmRtu0bByGlou6fk8qhoA-oY1G59tmDy87PNlzPzTxRCqXaBW_kv9rzEAg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ErickWendelTraining)
+
+[**Erick Wendel**](https://www.youtube.com/@ErickWendelTraining) \
+Conteúdo sobre: NodeJs \ JavaScript \
+Playlists em destaque: `Learning from tech talks`, `Kubernetes for Devs`, `IoT com JavaScript` \
+<br/>
+
+
+
+
 
 [🔼 Voltar ao índice](#índice)
 
