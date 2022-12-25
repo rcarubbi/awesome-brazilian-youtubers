@@ -248,7 +248,7 @@ Playlists em destaque: `Saga de um Cientista`, `Curso Básico de SQL para análi
 
 [**Minuto Matemática**](https://www.youtube.com/@MinutoMatematica) \
 Conteúdo sobre: Matemática \
-Playlists em destaque: `Minuto Matemática`, `Minuto da Física` \
+Playlists em destaque: `Minuto Matemática`, `Minuto da Física`
 
 <br/>
 
