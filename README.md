@@ -242,7 +242,15 @@ Playlists em destaque: `Revisão Matemática ENEM 2022`, `ENEM 2022 - Questões 
 
 [**Programação Dinâmica**](https://www.youtube.com/@pgdinamica) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Ciência de Dados \ Inteligência Artificial \
-Playlists em destaque: `Saga de um Cientista`, `Curso Básico de SQL para análise de dados`, `Tecnologia ou Magia`, `Curso de Deep Learning - Aprenda a construir redes neurais com PyTorch`  
+Playlists em destaque: `Saga de um Cientista`, `Curso Básico de SQL para análise de dados`, `Tecnologia ou Magia`, `Curso de Deep Learning - Aprenda a construir redes neurais com PyTorch`
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu_fPIK1dEdHVyHXNJUwQUnu-7hgJtACY_B3a_aTpw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@MinutoMatematica)
+
+[**Minuto Matemática**](https://www.youtube.com/@MinutoMatematica) \
+Conteúdo sobre: Matemática \
+Playlists em destaque: `Minuto Matemática`, `Minuto da Física` \
+
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
