@@ -436,6 +436,12 @@ Conteúdo sobre: Hardware \ Benchmarks \
 Playlists em destaque: `Coberturas`, `BGS 2022`, `13a Geração Intel Core`, `Dicas de Hardware`, `Guia de Compras` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AMLnZu87hKDM5y7ttrTNslOXMfFjVU_HPcckIu_Dci13hiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@lucasishii)
+
+[**Lucas Ishii**](https://www.youtube.com/@lucasishii) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Hardware \ Benchmarks \ Notebooks
+Playlists em destaque: `#benchmark em NOTEBOOKS`, `#unboxing de NOTEBOOKS`, `#review de NOTEBOOKS`, `#conferindo NOTEBOOKS`, `#setupdosinscritos` \
+<br/>
 
 [🔼 Voltar ao índice](#índice)
 
