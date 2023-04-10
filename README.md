@@ -93,7 +93,6 @@ Playlists em destaque: `Curso Frontend`, `Programação para iniciantes` \
 [**Programador BR**](https://www.youtube.com/@Programadorbr) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Desenvolvimento de Software em Geral \
 Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e CSS`, `Tutorial Jogo da Velha` \
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/cRm8fQkwoDu6xYIlO0btkIgpb7kydk8QHfelJpyiIB51dsAXCvijnj6v_OTrbBcaKHUIljh0Ww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@zeucxb)
 
