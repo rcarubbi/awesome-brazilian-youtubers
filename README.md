@@ -95,6 +95,14 @@ Conteúdo sobre: Desenvolvimento de Software em Geral \
 Playlists em destaque: `React Native`, `Lógica de Progrmação`, `Curso HTML e CSS`, `Tutorial Jogo da Velha` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/cRm8fQkwoDu6xYIlO0btkIgpb7kydk8QHfelJpyiIB51dsAXCvijnj6v_OTrbBcaKHUIljh0Ww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@zeucxb)
+
+[**Eliseu Codinhoto**](https://www.youtube.com/@zeucxb) \
+Conteúdo sobre: Desenvolvimento de Software em Geral \
+Playlists em destaque: `Go (Golang) - OO`, `Curso de Introdução a Linguagem Go (Golang)`, `ReactJS a biblioteca javascript do facebook
+`, `AngularJS` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
