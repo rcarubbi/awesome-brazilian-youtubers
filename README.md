@@ -283,7 +283,6 @@ DevOps é a combinação de desenvolvimento de software (software **dev**elopmen
 [**Caio Delgado**](https://www.youtube.com/@caiodelgadonew) \
 Conteúdo sobre: DevOps \ Docker \ Git \ Terraform \
 Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` \
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AGIKgqPWs8zpJOXjchWfVmEq1PMIIKNSyXZjv1lGXISa=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FullCycle)
 
