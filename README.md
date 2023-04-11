@@ -285,6 +285,13 @@ Conteúdo sobre: DevOps \ Docker \ Git \ Terraform \
 Playlists em destaque: `Conventional Commits e Semantic Versioning`, `Docker DCA - Cusro`, `Docker`, `Terraform`, `Lives` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AGIKgqPWs8zpJOXjchWfVmEq1PMIIKNSyXZjv1lGXISa=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FullCycle)
+
+[**Full Cycle**](https://www.youtube.com/@FullCycle) \
+Conteúdo sobre: DevOps \ Kafka \ CI/CD \ Microserviços \
+Playlists em destaque: `Apache Kafka`, `Docker`, `Go Lang do zero`, `Mensageria`, `Monitoramento` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento de Jogos
