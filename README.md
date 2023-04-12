@@ -442,6 +442,12 @@ Tutoriais sobre criação de conteúdo em áudio e vídeo. Inclui vastos tópico
 Conteúdo sobre: vídeo aulas e assuntos relacionados ao Blender. \
 Playlists em destaque: `3D para todos | Blender 2.9`, `Modelagem Carro Blender 2.8 - Ford Mustang GT 1968`, `Curso Blender 2.8 - Tutoriais em Português`
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/nNYdIjiqs2UKE_rVfrFMfBVllmkLpNsTU8X7dzPsANP6OP3qmJIXYXRtJf6MkCtGgPDr6B8Q_g=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@wellingtoncoloni)
+
+[**Wellington Coloni - Tutoriais de Blender 3D**](https://www.youtube.com/@wellingtoncoloni) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre:  Tudo sobre o Blender 3D, desde o básico até o nível avançado em Português \
+Playlists em destaque: `Dicas valiosas!`, `Série: Latinha de Coca REALISTA no Blender (passo-a-passo)`, `Série: Casa do Kame realista no Blender 3D (passo-a-passo)`
+
 [🔼 Voltar ao índice](#índice)
 
 ## Hardware
