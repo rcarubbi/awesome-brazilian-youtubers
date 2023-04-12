@@ -436,6 +436,12 @@ Os tutoriais de web designing estão listados na [seção de desenvolvimento web
 
 Tutoriais sobre criação de conteúdo em áudio e vídeo. Inclui vastos tópicos, como design, animação, renderização, hardware e mais. Utilização do mais popular e melhor software para criar belíssimas animações em vídeo, canções bem produzidas e coisas relacionadas a estes tópicos.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AGIKgqNKjEPuv2uNw8UxByu9r53cfL8fhYY0KCNecgxAVg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DanielFranco3d)
+
+[**Daniel Franco**](https://www.youtube.com/@DanielFranco3d) \
+Conteúdo sobre: vídeo aulas e assuntos relacionados ao Blender. \
+Playlists em destaque: `3D para todos | Blender 2.9`, `Modelagem Carro Blender 2.8 - Ford Mustang GT 1968`, `Curso Blender 2.8 - Tutoriais em Português`
+
 [🔼 Voltar ao índice](#índice)
 
 ## Hardware
