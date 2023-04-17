@@ -225,6 +225,13 @@ Conteúdo sobre: NodeJs \ JavaScript \
 Playlists em destaque: `Learning from tech talks`, `Kubernetes for Devs`, `IoT com JavaScript` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/FOBU3yGflLlLPWTcrbTNRkcKpZlf16ByssvMW88KMw4t2_me15kLwm8htZ3x374JmOG6Gl4tWQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GuiadoProgramador)
+
+[**Victor Lima - Ciência da Computação**](https://www.youtube.com/@GuiadoProgramador) \
+Conteúdo sobre: NodeJs \ JavaScript \
+Playlists em destaque: `Curso de Knex.js`, `Aulas Node.js - Formação Node.js`, `Curso de Node.js` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Ciência da computação
