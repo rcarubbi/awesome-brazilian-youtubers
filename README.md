@@ -457,6 +457,13 @@ Conteúdo sobre: CorelDraw \ Impressão 3d \ Arduino e IoT \ Android \
 Playlists em destaque: `Impressão 3D`, `CorelDRAW essencial`, `Curso de Arduino para iniciantes`, `Eletrônica` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/a4bBwqUnDoXXqvDrrCWaAAjLwZnuxCbj54bubn8ltYoxRbZMwexerfCKPO7y1K_JSXRcFFDI=s176-c-k-c0x00ffffff-no-rj"/>]([https://www.youtube.com/@RBtechinfo](https://www.youtube.com/@pptreta))
+
+[**PPTRETA**](https://www.youtube.com/@pptreta) \
+Conteúdo sobre: Powerpoint \
+Playlists em destaque: `PERGUNTAS DOS INSCRITOS` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Áudio e vídeo
