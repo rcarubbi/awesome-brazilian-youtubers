@@ -321,7 +321,6 @@ Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Form
 [**Vinícius Thiengo**](https://www.youtube.com/@ThiengoCalopsita) \
 Conteúdo sobre: Android
 Playlists em destaque: `[MINI-CURSO] Porque e Como Utilizar Vetores no Android`, `Como Desenvolver a Tela de Listagem de Calçados - Android...`, `Como Melhorar a Área de Configurações de Conta -...`. \
-<br/>
 
 [🔼 Voltar ao índice](#índice)
 
