@@ -316,6 +316,13 @@ Conteúdo sobre: Cross-Platform / Xamarin / iOS / Android / C# \
 Playlists em destaque: `Curso de Bots`, `Xamarin Para Iniciantes`, `Xamarin.Forms`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AGIKgqOXAN4nyferlXGPHZknxIJO-kp7PrHHILOQ7yIJYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThiengoCalopsita)
+
+[**Vinícius Thiengo**](https://www.youtube.com/@ThiengoCalopsita) \
+Conteúdo sobre: Android
+Playlists em destaque: `[MINI-CURSO] Porque e Como Utilizar Vetores no Android`, `Como Desenvolver a Tela de Listagem de Calçados - Android...`, `Como Melhorar a Área de Configurações de Conta -...`. \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Embarcado
