@@ -102,6 +102,13 @@ Playlists em destaque: `Go (Golang) - OO`, `Curso de Introdução a Linguagem Go
 `, `AngularJS` \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/vQ2KweKbc_VZf0P-CRqY20YMTVKCbLbiIW5PM7KZktKvacA16AX1q_2z51hota-__PluB1PLqg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WaldemarNetoDevLab)
+
+[**Waldemar Neto - Dev Lab**](https://www.youtube.com/@WaldemarNetoDevLab) \
+Conteúdo sobre: Desenvolvimento de Software em Geral \
+Playlists em destaque: `Elastic Search`, `Docker`, `DevOps`, `Node.js` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento Web
