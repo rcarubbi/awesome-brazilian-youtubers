@@ -450,6 +450,13 @@ Playlists em destaque: `DioCast - O podcast do Diolinux`, `Curso de edição de 
 
 Os tutoriais de web designing estão listados na [seção de desenvolvimento web](#desenvolvimento-web). Mas, claro, o design digital é incrivelmente grande, incluindo ótimas representações em fotos e pinturas sobre pessoas famosas ou vídeos promocionais atrativos. Obtenha o conhecimento sobre como como fazer estas coisas e ser um profissional com programas de design.
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AGIKgqNWtUjroFb_VEokCk518sies-fEh3aI_WXM2P_f=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@RBtechinfo)
+
+[**RBtech**](https://www.youtube.com/@RBtechinfo) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
+Conteúdo sobre: CorelDraw \ Impressão 3d \ Arduino e IoT \ Android \
+Playlists em destaque: `Impressão 3D`, `CorelDRAW essencial`, `Curso de Arduino para iniciantes`, `Eletrônica` \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Áudio e vídeo
