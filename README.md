@@ -526,9 +526,9 @@ Playlists em destaque: `Tópicos Avançados em Programação Competitiva`, `Intr
 
 Seu lado profissional pode ser fortalecido enquanto você assistir a estes tutoriais. É importante saber como gerenciar seu dinheiro e mantê-lo nos trilhos, bem como dicas para conseguir o emprego que você deseja ou começar seu próprio negócio. Encontre também processos seletivos de empresas de tecnologia/design/programação.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/z0Ccoolotr1Q4F2EaCIgaR4GWLAR_VCwP25QrTica_e9XV6x8-kuQx_qnqI1mnaOkYl6KkIL=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LucasMontano)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/z0Ccoolotr1Q4F2EaCIgaR4GWLAR_VCwP25QrTica_e9XV6x8-kuQx_qnqI1mnaOkYl6KkIL=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@LucasMontano) 
 
-[**Lucas Montano**](https://www.youtube.com/@LucasMontano) \
+[**Lucas Montano**](https://www.youtube.com/@LucasMontano) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Carreira Em Tecnologia \
 Playlists em destaque: \
 <br/>
