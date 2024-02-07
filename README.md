@@ -168,13 +168,13 @@ Playlists em destaque:  `Como Aprender NextJS`, `Dicas de programação`, `Como 
 Conteúdo sobre: .Net \ C# \
 Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`.  
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/G2VPS8QDdVzjqsFTEu2nh997GkNay4fyfrgIJDvdUG84ROPxCih9wtlq5CjjOZ0iStOX6dMlYA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/esSt2C0guMF6SPAKTbfW0IkhCxL4KVQCOw1pHiGdAgiz2JRrRrNOE8TKlVZlYuTiRdsaqtg8MA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
 
 [**balta.io**](https://www.youtube.com/@baltaio) \
 Conteúdo sobre: .Net \ C# \ Flutter \ Angular \
 Playlists em destaque: `MAUI`, `Injeção de Dependência`, `Clean Code`, `RavenDB`, `Descomplicando o C#`, `Arquitetura`, `Carreira`, `DevOps`, `GitHub`, `React`, `Azure`, `EF Core`, `Asp.net Core`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/IEhKzdnrZm6_c5C5wtbPCifuoWu-SJEoSL3NDQc80KNMTGBNklE_puQlWw4QJm8Kvk43mmRR=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CaffeineAlgorithm)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/Wqc7Ul624nZ0ZWoGWxfa1dFYuxr_kOXfZGDgDPmeoe74rc4dQ8m7UbXQhEj-nA8lI40CvJWSHJ4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CaffeineAlgorithm)
 
 [**Caffeine Algorithm**](https://www.youtube.com/@CaffeineAlgorithm) \
 Conteúdo sobre: C# \ Java \ Python \ Go \
@@ -199,7 +199,7 @@ Conteúdo sobre: Blockchain \ Ethereum \ Solidity \ Smart contracts \ NFT's \
 Playlists em destaque: `Escovando Bits`, `Ethereum`, `O Nascimento de um endereço Bitcoin - Série` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/BA6G838G6D8MLJcMw1JTkM6LMMJk-Xt1_NDygjsxjGWF2S-A3xb0OozHK6ygrkvDglBLb4iA1A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@desenvolvedorio)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/VhRT7Dr_a1aVuZBo_Hk5CPUopXuc1koJswQsLbVAXY1wEUieEWHX9Bd5t2_x2VDNk5vQbN83tw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@desenvolvedorio)
 
 [**desenvolvedor.io**](https://www.youtube.com/@desenvolvedorio) \
 Conteúdo sobre: Asp.net \ c# \
@@ -225,7 +225,7 @@ Conteúdo sobre: NodeJs \ JavaScript \
 Playlists em destaque: `Learning from tech talks`, `Kubernetes for Devs`, `IoT com JavaScript` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/FOBU3yGflLlLPWTcrbTNRkcKpZlf16ByssvMW88KMw4t2_me15kLwm8htZ3x374JmOG6Gl4tWQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GuiadoProgramador)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/XgIZsajLB5TF61n0vKUfycAdtndYh61OIMMCzvjzFX4I4zBZmql2eWiYIL554o2tmYRlDPPYAic=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@GuiadoProgramador)
 
 [**Victor Lima - Ciência da Computação**](https://www.youtube.com/@GuiadoProgramador) \
 Conteúdo sobre: NodeJs \ JavaScript \
@@ -425,7 +425,7 @@ Playlists em destaque: `Cursos Fudamentos de Redes de Computadores e Internet`, 
 
 YouTubers listados nesta categoria podem não ser tutoriais de programação ou cartões de design legais, mas alguns outros software e aplicações úteis que são usados diariamente por todos. Domine esta suite que você usa extensivamente ou aprenda mais sobre serviços específicos que uma empresa provê à você.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/fqsyZzHxAtj8JcRMZg6K7HvJzAOycxNFc6lfhzNDi1788tvG4ilHAV5wpgCmAUKDYzPlDTGYGw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@JornadaTop)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/Luyz2Z0bfhEnMAnHAtlQcHL55tH0xWQ07VQomk0UUzbSQVWa8Lnt7yN3qCSsfBihcPtzqOnC0Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@JornadaTop)
 
 [**Jornada Top**](https://www.youtube.com/@JornadaTop) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Marketing Digital \ monetização com redes sociais \ programa de afiliados do Google, Facebook e Instagram  \
