@@ -403,7 +403,6 @@ Playlists em destaque: `AMO - Análise de Malware Online`, `CEB - Curso de Explo
 [**H2HC Conference**](https://www.youtube.com/@h2hconference) \
 Conteúdo sobre: Engenharia Reversa \ Hardware Hacking \ Pentest \ Pesquisa de Segurança \ Segurança \
 Playlists em destaque: `Hangouts and Others`. \
-<br />
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/FzAVmVcIdnP60xeJdfMJYk3lBIi-yymZS-wt8fLVpu6kFPzjJHBCTRHVad_lxj8KewFFGsAKU4w=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@brunofragax)
 
