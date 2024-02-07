@@ -405,6 +405,13 @@ Conteúdo sobre: Engenharia Reversa \ Hardware Hacking \ Pentest \ Pesquisa de S
 Playlists em destaque: `Hangouts and Others`. \
 <br />
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/FzAVmVcIdnP60xeJdfMJYk3lBIi-yymZS-wt8fLVpu6kFPzjJHBCTRHVad_lxj8KewFFGsAKU4w=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@brunofragax)
+
+[**Bruno Fraga**](https://www.youtube.com/@brunofragax) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Hacking \ Segurança \
+Playlists em destaque: `Privacidade e Anonimato`, `Hacker`. \
+<br />
+
 
 [🔼 Voltar ao índice](#índice)
 
