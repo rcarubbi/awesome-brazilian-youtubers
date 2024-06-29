@@ -27,7 +27,6 @@ Playlists em destaque: `PLAYLIST 1`, `PLAYLIST 2`, `PLAYLIST 3`,`PLAYLIST 4` \
 <br />
 ```
 
-
 <details>
   <summary>Exemplo:</summary>
 
@@ -73,4 +72,5 @@ _Aparece automaticamente ao criar um pull request._
   videos diariamente com tutoriais de tecnologia em geral. Estes tutoriais incluem proteção à sua empresa, busca de
   vulnerabilidades, uso de GitHub Actions e mais. Também tem playlists muito úteis onde você pode encontrar palestras
   de profissionais que te ensinam diversos tópicos.
+
 </details>

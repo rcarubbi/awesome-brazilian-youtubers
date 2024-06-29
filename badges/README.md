@@ -1,7 +1,7 @@
 # Distintivos
 
 Distintivos são pequenos indicadores para te informar mais sobre um YouTuber específico. 0 ou mais distintivos podem ser
-concedidos à um YouTuber. Estes distintivos apenas servem como informações adicionais para você enquanto navega através
+concedidos a um YouTuber. Estes distintivos apenas servem como informações adicionais para você enquanto navega através
 desta lista.
 
 <br/>
