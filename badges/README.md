@@ -1,6 +1,8 @@
 # Distintivos
 
-Distintivos são pequenos indicadores para te informar mais sobre um YouTuber específico. 0 ou mais distintivos podem ser concedidos à um YouTuber. Estes distintivos apenas servem como informações adicionais para você enquanto navega através desta lista.
+Distintivos são pequenos indicadores para te informar mais sobre um YouTuber específico. 0 ou mais distintivos podem ser
+concedidos à um YouTuber. Estes distintivos apenas servem como informações adicionais para você enquanto navega através
+desta lista.
 
 <br/>
 
@@ -8,7 +10,8 @@ Distintivos são pequenos indicadores para te informar mais sobre um YouTuber es
 
 #### Canal do YouTube verificado
 
-Este distintivo é concedido aos YouTubers que tem um símbolo de verificado nos seus canais. Aprenda mais sobre canais do YouTube verificados [aqui](https://support.google.com/youtube/answer/3046484?hl=pt).
+Este distintivo é concedido aos YouTubers que tem um símbolo de verificado nos seus canais. Aprenda mais sobre canais do
+YouTube verificados [aqui](https://support.google.com/youtube/answer/3046484?hl=pt).
 
 <br/>
 
