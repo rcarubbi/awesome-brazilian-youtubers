@@ -65,7 +65,7 @@ destaque: `Curso de HTML5 Completo e GRÁTIS`, `Curso de Lógica de Programaçã
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/ytc/AMLnZu8lUVeJ1TiYevFOzZPNQFEQSDHc-TwiYKMcQpxpvA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@codigofontetv)
 
-[**Código Fonte TV**](https://www.youtube.com/@codigofontetv) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+[**Código Fonte TV**](https://www.youtube.com/codigofontetv) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em
 destaque: `Clean Code - Desvendando Livros`, `Tecnologias por trás dos Games`, `Tech Hour 2022`, `O Que Programadores Fazem?`, `Compilado Podcast`.
