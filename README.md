@@ -30,10 +30,12 @@ informar [abrindo um chamado no repositório principal em inglês](https://githu
 
 ## Índice
 
+- [Outros idiomas](#outros-idiomas)
+- [Índice](#índice)
 - [Programação em geral](#programação-em-geral)
 - [Desenvolvimento web](#desenvolvimento-web)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
+	- [Frontend](#frontend)
+	- [Backend](#backend)
 - [Ciência da computação](#ciência-da-computação)
 - [Machine learning](#machine-learning)
 - [DevOps](#devops)
@@ -84,7 +86,7 @@ Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em
 destaque: `Construção do tabnews.com.br`, `Como Criar Um Site (Grátis e Moderno)`, `Primeiro Jogo Multiplayer`, `4 robôs que criam vídeos no YouTube`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/_zOWKEffYTM2tMZml7lHks91Lu6mtR1QxMqiHYHacrmJ-tfOjU8JjEtn692-apXr3Ur1qPAE=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lambda3Br)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/0m7-76PfB-wd4N8e4Sx05ZyBnqX_kOt3ZKWdOrjtNlUCbkOiBSZFtWbrOhsxMQgPIsO_3Pco=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Lambda3Br)
 
 [**Lambda3**](https://www.youtube.com/@Lambda3Br) \
 Conteúdo sobre: Desenvolvimento web, Microserviços \
@@ -112,7 +114,7 @@ Playlists em
 destaque: `Go (Golang) - OO`, `Curso de Introdução a Linguagem Go (Golang)`, `ReactJS a biblioteca javascript do facebook
 `, `AngularJS`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/vQ2KweKbc_VZf0P-CRqY20YMTVKCbLbiIW5PM7KZktKvacA16AX1q_2z51hota-__PluB1PLqg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WaldemarNetoDevLab)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/68v_hVdpise2cRkUTTisrq3BCW_dnxDFue_TppW7s6BX-K2iQjnk34wbjYUTkhPctWHUUl1EEA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@WaldemarNetoDevLab)
 
 [**Waldemar Neto - Dev Lab**](https://www.youtube.com/@WaldemarNetoDevLab) \
 Conteúdo sobre: Desenvolvimento de software em geral \
@@ -163,21 +165,21 @@ destaque: `Curso de Responsivo Feliz com HTML e CSS`, `Curso de JavaScript para 
 [**Rocketseat**](https://www.youtube.com/@rocketseat) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: React, JavaScript, React Native, Node.js, Elixir \
 Playlists em
-destaque:  `Show me the code`, `Decode`, `Iniciando na programação`, `Videos 2022`, `Javascript`, `Node,js`, `React`, `React Native`, `Elixir`.
+destaque: `Show me the code`, `Decode`, `Iniciando na programação`, `Videos 2022`, `Javascript`, `Node,js`, `React`, `React Native`, `Elixir`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rafaellaballerini)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/TviSreAj-r2KTXt5io1qcGeMYdClOjVwlNrQXA38WZs_d74Jjmze1hNl3pdHj1NHnOAOBCnW5g=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rafaellaballerini)
 
 [**Rafaella Ballerini**](https://www.youtube.com/@rafaellaballerini) [<img height="16px" width="16px" alt="Distintivo para canais do YouTube verificados" src="badges/badge-verificado.svg" title="É um canal do YouTube verificado" />](badges/README.md#canal-do-youtube-verificado) \
 Conteúdo sobre: CSS, HTML5, Git, GitHub \
 Playlists em
-destaque:  `Flexbox`, `Projetos práticos passo a passo`, `Organiação e produtividade + Notion`, `Eletrônicos`, `Git e GitHub`, `Front-end`.
+destaque: `Flexbox`, `Projetos práticos passo a passo`, `Organiação e produtividade + Notion`, `Eletrônicos`, `Git e GitHub`, `Front-end`.
 
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevSoutinho)
 
 [**Mario Souto - Dev Soutinho**](https://www.youtube.com/@DevSoutinho) [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: CSS, HTML5, JavaScript, GitHub, Carreira, Next.js, Vercel, React \
 Playlists em
-destaque:  `Como Aprender NextJS`, `Dicas de programação`, `Como fazer um site ou blog com NextJS, SEO e Styled Componets`. \
+destaque: `Como Aprender NextJS`, `Dicas de programação`, `Como fazer um site ou blog com NextJS, SEO e Styled Componets`. \
 <br/>
 
 ### Backend
@@ -188,7 +190,7 @@ destaque:  `Como Aprender NextJS`, `Dicas de programação`, `Como fazer um site
 Conteúdo sobre: .NET, C# \
 Playlists em destaque: `Domain Driven Design`, `Começando do zero`, `1a. Temporada`, `2a. Temporada`, `3a. Temporada`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/HJO43gaNjbWqUK04fpK8fRpGWMoBRwh-8G-T5rwAfGB9wmsOcx0yFzwnnL2Hn5QoZceiyPvgMA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/S8-DJJbS11ZY0TXmx5sjwAgmL8djktgevrlQfyrJo0Ljlm00lG4SD2dStkyISM2rR0dEezxExA=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@baltaio)
 
 [**balta.io**](https://www.youtube.com/@baltaio) \
 Conteúdo sobre: .NET, C#, Flutter, Angular \
@@ -243,7 +245,7 @@ Conteúdo sobre: Java, Bancos de dados \
 Playlists em
 destaque: `RabbitMQ Direto Ao Ponto`, `Banco de Dados Boladão`, `Maratona Java Virado no Jiraya`, `Spring Boot Essentials 2`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.ggpht.com/EP4HtvEeMu0Fu4ZX2rmRtu0bByGlou6fk8qhoA-oY1G59tmDy87PNlzPzTxRCqXaBW_kv9rzEAg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ErickWendelTraining)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/jO-67VqgxGLkaDf7tqxM38IHHhvIubuuSBbom089VVt80GCO-a8hTIjHXQFOywFsjiCsgxvS2yo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ErickWendelTraining)
 
 [**Erick Wendel**](https://www.youtube.com/@ErickWendelTraining) \
 Conteúdo sobre: Node.js, JavaScript \
@@ -528,7 +530,7 @@ Obtenha o conhecimento sobre como fazer estas coisas e ser um profissional com p
 Conteúdo sobre: CorelDRAW, Impressão 3D, Arduino e IoT, Android \
 Playlists em destaque: `Impressão 3D`, `CorelDRAW essencial`, `Curso de Arduino para iniciantes`, `Eletrônica`.
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/a4bBwqUnDoXXqvDrrCWaAAjLwZnuxCbj54bubn8ltYoxRbZMwexerfCKPO7y1K_JSXRcFFDI=s176-c-k-c0x00ffffff-no-rj"/>]([https://www.youtube.com/@RBtechinfo](https://www.youtube.com/@pptreta))
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/EcF8zbdC4jPdIU3dFKdPzggVf8TeeNNoVVAfZC8d-wClhv7HBH7DWPD1iQ02mKZrWY0buHT2=s160-c-k-c0x00ffffff-no-rj"/>](<[https://www.youtube.com/@RBtechinfo](https://www.youtube.com/@pptreta)>)
 
 [**PPTRETA**](https://www.youtube.com/@pptreta) \
 Conteúdo sobre: PowerPoint \
