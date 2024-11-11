@@ -376,8 +376,6 @@ Esté é um assunto vasto. Nesta seção você encontrará YouTubers que ensinam
 jogos (Unity, Unreal Engine, etc.), conceitos fundamentais em diferentes linguagens de programação (JavaScript, HTML5,
 Java), criação de arte/design, modelagem 3D e muito mais.
 
-[🔼 Voltar ao índice](#índice)
-
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/zHMx8i3yRT_w6zYXDxY11o7kWpdfiqUcDGhqlX9bsYrlcXbr2U2H5qpQC9cpjlPTqOE5rhnH=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevBandeira)
 
 [**Dev Bandeira**](https://www.youtube.com/@DevBandeira) \
@@ -398,6 +396,8 @@ Playlists em destaque: `Desenvolvimento de Jogos`, `Gestão e empreendedorismo`,
 Conteúdo sobre: Desenvolvimento de jogos \
 Playlists em destaque: `Siege 'n Sow devlogs`, `Game Design`, `Godot 4`. \
 <br/>
+
+[🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento móvel
 
