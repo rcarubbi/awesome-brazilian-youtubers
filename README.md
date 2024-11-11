@@ -130,7 +130,7 @@ Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em destaque: `Bevy Engine`, `Rust`, `Como estudar`, `Como se organizar`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AIdro_l-U0s4…RNXoy1jZfK7CogXkJcpz7Q=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Dunossauro)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AIdro_l-U0s4DusUoDq-0X9v_yvheRNXoy1jZfK7CogXkJcpz7Q=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Dunossauro)
 
 [**Eduardo Mendes**](https://www.youtube.com/@Dunossauro) \
 [<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
@@ -138,7 +138,7 @@ Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em destaque: `30 dias de Python`, `Curso FastAPI`, `Quer apreder Python`, `Minissérie Pythonica`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/lN1oFWRZ4GrBmUsl…5Vcl1svgz3x7JmCtTEYRKg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@luaverse)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/lN1oFWRZ4GrBmUslgUcGpgz_fEVrTcLpo4SRl0jPafZzI_iM2z5Vcl1svgz3x7JmCtTEYRKg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@luaverse)
 
 [**Jorge Rezende**](https://www.youtube.com/@luaverse) \
 Conteúdo sobre: Desenvolvimento de software em geral \
@@ -378,21 +378,21 @@ Java), criação de arte/design, modelagem 3D e muito mais.
 
 [🔼 Voltar ao índice](#índice)
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/zHMx8i3yRT_w6zYX…2H5qpQC9cpjlPTqOE5rhnH=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevBandeira)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/zHMx8i3yRT_w6zYXDxY11o7kWpdfiqUcDGhqlX9bsYrlcXbr2U2H5qpQC9cpjlPTqOE5rhnH=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevBandeira)
 
 [**Dev Bandeira**](https://www.youtube.com/@DevBandeira) \
 Conteúdo sobre: Desenvolvimento de jogos \
 Playlists em destaque: `Work Adventure`, `RPG Top Down`, `Curso Godot`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/llRWaeCIQimCnf1S…hVUoAkkxjxC5T11qMpjeBM=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FernandoPosserPinheiro)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/IWCkOJfUZMJbgUzPRnDAHG1CkcPZyuFASKLEqOjIzuck6PlAbgVwf0IH5v9HuMyTBAcRm-ZuwQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FernandoPosserPinheiro)
 
 [**Fernando Pinheiros**](https://www.youtube.com/@FernandoPosserPinheiro) \
 Conteúdo sobre: Desenvolvimento de jogos \
 Playlists em destaque: `Desenvolvimento de Jogos`, `Gestão e empreendedorismo`, `Carreira`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/IWCkOJfUZMJbgUzP…f0IH5v9HuMyTBAcRm-ZuwQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cuca_dev)
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/llRWaeCIQimCnf1SZg5xnyMew2Nei9f7BNmek1BAChIA5pLJCkhVUoAkkxjxC5T11qMpjeBM=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cuca_dev)
 
 [**Lucas Coelho (Cuca)**](https://www.youtube.com/@cuca_dev) \
 Conteúdo sobre: Desenvolvimento de jogos \
