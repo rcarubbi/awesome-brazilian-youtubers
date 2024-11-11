@@ -124,8 +124,25 @@ Playlists em destaque: `Elastic Search`, `Docker`, `DevOps`, `Node.js`. \
 [<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/HhkBKF0oUjo9FOyoYHIp3SFUaCUQffYWYvSXOm9vx17KMikyDY1qX85A_7Um92L_epyuUh5FbTI=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@devjonatas)
 
 [**Canal Dev Jônatas**](https://www.youtube.com/@devjonatas) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos
+    semanalmente"/>](badges/README.md#post-de-videos-semanais) \
 Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em destaque: `Bevy Engine`, `Rust`, `Como estudar`, `Como se organizar`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/ytc/AIdro_l-U0s4…RNXoy1jZfK7CogXkJcpz7Q=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Dunossauro)
+
+[**Eduardo Mendes**](https://www.youtube.com/@Dunossauro) \
+[<img height="16px" width="16px" alt="Distintivo para YouTubers que postam videos semanalmente" src="badges/badge-semanal.svg" title="Posta videos semanalmente"/>](badges/README.md#post-de-videos-semanais) \
+Conteúdo sobre: Desenvolvimento de software em geral \
+Playlists em destaque: `30 dias de Python`, `Curso FastAPI`, `Quer apreder Python`, `Minissérie Pythonica`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/lN1oFWRZ4GrBmUsl…5Vcl1svgz3x7JmCtTEYRKg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@luaverse)
+
+[**Jorge Rezende**](https://www.youtube.com/@luaverse) \
+Conteúdo sobre: Desenvolvimento de software em geral \
+Playlists em destaque: `Algoritmos`, `Combo fala + Coda`, `Programar jogos em lua`, `Curso básico de lua`. \
 <br/>
 
 [🔼 Voltar ao índice](#índice)
@@ -360,6 +377,27 @@ jogos (Unity, Unreal Engine, etc.), conceitos fundamentais em diferentes linguag
 Java), criação de arte/design, modelagem 3D e muito mais.
 
 [🔼 Voltar ao índice](#índice)
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/zHMx8i3yRT_w6zYX…2H5qpQC9cpjlPTqOE5rhnH=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@DevBandeira)
+
+[**Dev Bandeira**](https://www.youtube.com/@DevBandeira) \
+Conteúdo sobre: Desenvolvimento de jogos \
+Playlists em destaque: `Work Adventure`, `RPG Top Down`, `Curso Godot`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/llRWaeCIQimCnf1S…hVUoAkkxjxC5T11qMpjeBM=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@FernandoPosserPinheiro)
+
+[**Fernando Pinheiros**](https://www.youtube.com/@FernandoPosserPinheiro) \
+Conteúdo sobre: Desenvolvimento de jogos \
+Playlists em destaque: `Desenvolvimento de Jogos`, `Gestão e empreendedorismo`, `Carreira`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/IWCkOJfUZMJbgUzP…f0IH5v9HuMyTBAcRm-ZuwQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cuca_dev)
+
+[**Lucas Coelho (Cuca)**](https://www.youtube.com/@cuca_dev) \
+Conteúdo sobre: Desenvolvimento de jogos \
+Playlists em destaque: `Siege 'n Sow devlogs`, `Game Design`, `Godot 4`. \
+<br/>
 
 ## Desenvolvimento móvel
 
