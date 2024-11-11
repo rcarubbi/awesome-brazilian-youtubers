@@ -121,6 +121,13 @@ Conteúdo sobre: Desenvolvimento de software em geral \
 Playlists em destaque: `Elastic Search`, `Docker`, `DevOps`, `Node.js`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Avatar do canal" src="https://yt3.googleusercontent.com/HhkBKF0oUjo9FOyoYHIp3SFUaCUQffYWYvSXOm9vx17KMikyDY1qX85A_7Um92L_epyuUh5FbTI=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@devjonatas)
+
+[**Canal Dev Jônatas**](https://www.youtube.com/@devjonatas) \
+Conteúdo sobre: Desenvolvimento de software em geral \
+Playlists em destaque: `Bevy Engine`, `Rust`, `Como estudar`, `Como se organizar`. \
+<br/>
+
 [🔼 Voltar ao índice](#índice)
 
 ## Desenvolvimento web
